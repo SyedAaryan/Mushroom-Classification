@@ -4,12 +4,12 @@ from sklearn.tree import DecisionTreeClassifier
 import joblib
 
 # Load training data
-df_train = pd.read_csv('mushroom_train.csv')  # Replace with your actual training file name
+df_train = pd.read_csv('../dataset/mushroom_train_old.csv')
 
 # Preprocess: Fill missing values with 'unknown'
 df_train.fillna('unknown', inplace=True)
 
-# Example of encoding categorical variables using LabelEncoder
+#Converts data other than int into numerical
 label_encoders = {}
 for column in df_train.columns:
     if df_train[column].dtype == object:
@@ -26,17 +26,17 @@ y_train_class = df_train['class']
 # Train models
 clf_family = DecisionTreeClassifier()
 clf_family.fit(X_train, y_train_family)
-joblib.dump(clf_family, 'clf_family.pkl')
+joblib.dump(clf_family, '../clf_family.pkl')
 
 clf_name = DecisionTreeClassifier()
 clf_name.fit(X_train, y_train_name)
-joblib.dump(clf_name, 'clf_name.pkl')
+joblib.dump(clf_name, '../clf_name.pkl')
 
 clf_class = DecisionTreeClassifier()
 clf_class.fit(X_train, y_train_class)
-joblib.dump(clf_class, 'clf_class.pkl')
+joblib.dump(clf_class, '../clf_class.pkl')
 
 # Save label encoders
-joblib.dump(label_encoders, 'label_encoders.pkl')
+joblib.dump(label_encoders, '../label_encoders.pkl')
 
 print("Training complete and models saved.")
