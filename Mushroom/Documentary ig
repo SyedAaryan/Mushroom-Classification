@@ -1,5 +1,5 @@
 20/08/2024 : 6 30
 Reducing the parameters of the dataset
-So in order to make the Project more user friendly, i am planning to reduce the parameters of the data set by 12 for
-training and 9 for test, originally it had 23 and 20 for training and testing respectfully
+So in order to make the Project more user friendly, i am planning to reduce the parameters of the data
+set by 12 for training and 10 for test, originally it had 23 and 21 for training and testing respectfully
 I plan to do this by writing a python script which deletes the column values

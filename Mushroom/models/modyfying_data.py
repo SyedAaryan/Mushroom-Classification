@@ -1,4 +1,5 @@
-#This function is used to modify the document, mostly to reduce the dataset by deleting the coplumn
+#This function is used to modify the document, mostly to reduce the dataset by deleting
+# the column
 import pandas as pd
 
 def remove_columns_from_csv(input_file, output_file, columns_to_remove):
@@ -30,9 +31,9 @@ def remove_columns_from_csv(input_file, output_file, columns_to_remove):
 
 
 # Example usage
-input_file = '../dataset/mushroom_train_old.csv'  #input file name
-output_file = '../dataset/mushroom_train.csv'  # Output file name
+input_file = 'input data set'  #input file name
+output_file = 'output dataset'  # Output file name
 columns_to_remove = ['cap-diameter', 'does-bruise-or-bleed', 'gill-attachment','gill-spacing','gill-color','stem-height',
-                     'stem-width','stem-root','Spore-print-color','habitat','season']  # columns needed to be removed
+                     'stem-width','stem-root','spore-print-color','habitat','season']  # columns needed to be removed
 
 remove_columns_from_csv(input_file, output_file, columns_to_remove)

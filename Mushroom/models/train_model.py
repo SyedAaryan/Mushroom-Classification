@@ -4,7 +4,7 @@ from sklearn.tree import DecisionTreeClassifier
 import joblib
 
 # Load training data
-df_train = pd.read_csv('../dataset/mushroom_train_old.csv')
+df_train = pd.read_csv('../dataset/mushroom_train.csv')
 
 # Preprocess: Fill missing values with 'unknown'
 df_train.fillna('unknown', inplace=True)
