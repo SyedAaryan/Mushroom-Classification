@@ -9,7 +9,7 @@ df_train = pd.read_csv('../dataset/mushroom_train.csv')
 # Preprocess: Fill missing values with 'unknown'
 df_train.fillna('unknown', inplace=True)
 
-#Converts data other than int into numerical
+# Convert categorical data to numerical
 label_encoders = {}
 for column in df_train.columns:
     if df_train[column].dtype == object:
@@ -22,6 +22,10 @@ X_train = df_train.drop(columns=['name', 'class', 'family'])
 y_train_family = df_train['family']
 y_train_name = df_train['name']
 y_train_class = df_train['class']
+
+# Save feature names
+feature_names = X_train.columns.tolist()
+joblib.dump(feature_names, '../feature_names.pkl')
 
 # Train models
 clf_family = DecisionTreeClassifier()
