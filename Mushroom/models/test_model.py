@@ -5,11 +5,11 @@ import joblib
 df_test = pd.read_csv('../dataset/mushroom_test_minor.csv')  # Replace with your actual testing file name
 
 # Load the saved models, label encoders, and feature names
-clf_family = joblib.load('../clf_family.pkl')
-clf_name = joblib.load('../clf_name.pkl')
-clf_class = joblib.load('../clf_class.pkl')
-label_encoders = joblib.load('../label_encoders.pkl')
-feature_names = joblib.load('../feature_names.pkl')
+clf_family = joblib.load('../pkl_files/clf_family.pkl')
+clf_name = joblib.load('../pkl_files/clf_name.pkl')
+clf_class = joblib.load('../pkl_files/clf_class.pkl')
+label_encoders = joblib.load('../pkl_files/label_encoders.pkl')
+feature_names = joblib.load('../pkl_files/feature_names.pkl')
 
 # Preprocess: Fill missing values with 'unknown'
 df_test.fillna('unknown', inplace=True)

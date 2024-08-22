@@ -25,22 +25,22 @@ y_train_class = df_train['class']
 
 # Save feature names
 feature_names = X_train.columns.tolist()
-joblib.dump(feature_names, '../feature_names.pkl')
+joblib.dump(feature_names, '../pkl_files/feature_names.pkl')
 
 # Train models
 clf_family = DecisionTreeClassifier()
 clf_family.fit(X_train, y_train_family)
-joblib.dump(clf_family, '../clf_family.pkl')
+joblib.dump(clf_family, '../pkl_files/clf_family.pkl')
 
 clf_name = DecisionTreeClassifier()
 clf_name.fit(X_train, y_train_name)
-joblib.dump(clf_name, '../clf_name.pkl')
+joblib.dump(clf_name, '../pkl_files/clf_name.pkl')
 
 clf_class = DecisionTreeClassifier()
 clf_class.fit(X_train, y_train_class)
-joblib.dump(clf_class, '../clf_class.pkl')
+joblib.dump(clf_class, '../pkl_files/clf_class.pkl')
 
 # Save label encoders
-joblib.dump(label_encoders, '../label_encoders.pkl')
+joblib.dump(label_encoders, '../pkl_files/label_encoders.pkl')
 
 print("Training complete and models saved.")
