@@ -8,3 +8,14 @@ I plan to do this by writing a python script which deletes the column values
 So the model now trains but Everything, the code i mean is of chat gpt, so i have no idea whats going
 in, ill start the actual project from tom. Also by saying model tests, it doesnt test properly, ig the
 encoder needs to be worked on
+
+22/08/2024 : 20:20
+I was working on how to fix the encoder but i think i am going little advance early, i also came to realise
+that the dataset i took had two dataset, Primary (which is named s mushroom_train.csv here) and Secondary
+(mushroom_test_major.csv and mushroom_test_minor.csv)
+Primary dataset has family, name, class but secondary dont, maybe i should learn using the secondary dataset
+given before going to the primary
+
+22/08/2024 : 20:50
+Yep, using the secondary dataset was easy, the test gives the accuracy of 97.6%
+Although i still need to learn alot before going to the primary dataset
