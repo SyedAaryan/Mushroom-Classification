@@ -19,3 +19,11 @@ given before going to the primary
 22/08/2024 : 20:50
 Yep, using the secondary dataset was easy, the test gives the accuracy of 97.6%
 Although i still need to learn alot before going to the primary dataset
+
+23/08/2024 : 21:20
+Thanks to Aadhi (an idiotic frnd of mine), i have found a way to deal with PrimaryDataset
+Now
+Amanita Family,Fly Agaric,p,[x; f],[g; h],[e; o],[y],[w],[u],[w],[t],[g; p]
+This is an example of the dataset, as you can see, some parameters has 2 values inside one, [g; h], like
+this, this can be solved by making g and h in a separate column
+So ill be implementing it
