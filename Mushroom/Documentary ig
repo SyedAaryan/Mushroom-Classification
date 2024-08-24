@@ -33,3 +33,8 @@ Primary data splitting has is done but its having an issue, since my primary dat
 so i thought i will train using the Primary and Test Using Secondary, and it works, yes, but i cant check teh accuracy
 since family name and class are not present in the secondary
 I have to write a decoder for the encoder it seems
+
+24/08/2024 : 17:00
+So i think the current encoder is having some issues, need to fix it
+And since i am having multiple target values, i decided to move from DecisionTree to randomForest
+But before that i will be working on the encoder

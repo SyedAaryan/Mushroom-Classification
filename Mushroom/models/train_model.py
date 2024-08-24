@@ -7,7 +7,7 @@ import joblib
 # Load the training dataset
 df_train = pd.read_csv('../dataset/mushroom_train_split.csv')
 
-# Encode categorical features
+#Encode categorical features
 label_encoders = {}
 for column in df_train.columns:
     if df_train[column].dtype == object:
