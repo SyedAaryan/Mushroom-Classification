@@ -27,3 +27,9 @@ Amanita Family,Fly Agaric,p,[x; f],[g; h],[e; o],[y],[w],[u],[w],[t],[g; p]
 This is an example of the dataset, as you can see, some parameters has 2 values inside one, [g; h], like
 this, this can be solved by making g and h in a separate column
 So ill be implementing it
+
+24/08/2024 : 12:00
+Primary data splitting has is done but its having an issue, since my primary data is less, it was having unSeen values
+so i thought i will train using the Primary and Test Using Secondary, and it works, yes, but i cant check teh accuracy
+since family name and class are not present in the secondary
+I have to write a decoder for the encoder it seems
