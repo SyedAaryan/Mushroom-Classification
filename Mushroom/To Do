@@ -1,5 +1,7 @@
 dataset has been updated
 Work on training
+Make primary and secoindary dataset proper
+FIx the encoding
 
 mushroom_train is the Primary Dataset
 mushroom_test_major.csv and mushroom_test_minor.csv are Secondary Dataset
