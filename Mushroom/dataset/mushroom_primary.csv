@@ -1,0 +1,1083 @@
+family,name,class,cap-shape,Cap-surface,cap-color,stem-surface,stem-color,veil-type,veil-color,has-ring,ring-type
+Amanita Family,Fly Agaric,p,x,g,e,y,w,u,w,t,g
+Amanita Family,Fly Agaric,p,x,g,e,y,w,u,w,t,p
+Amanita Family,Fly Agaric,p,x,g,o,y,w,u,w,t,g
+Amanita Family,Fly Agaric,p,x,g,o,y,w,u,w,t,p
+Amanita Family,Fly Agaric,p,x,h,e,y,w,u,w,t,g
+Amanita Family,Fly Agaric,p,x,h,e,y,w,u,w,t,p
+Amanita Family,Fly Agaric,p,x,h,o,y,w,u,w,t,g
+Amanita Family,Fly Agaric,p,x,h,o,y,w,u,w,t,p
+Amanita Family,Fly Agaric,p,f,g,e,y,w,u,w,t,g
+Amanita Family,Fly Agaric,p,f,g,e,y,w,u,w,t,p
+Amanita Family,Fly Agaric,p,f,g,o,y,w,u,w,t,g
+Amanita Family,Fly Agaric,p,f,g,o,y,w,u,w,t,p
+Amanita Family,Fly Agaric,p,f,h,e,y,w,u,w,t,g
+Amanita Family,Fly Agaric,p,f,h,e,y,w,u,w,t,p
+Amanita Family,Fly Agaric,p,f,h,o,y,w,u,w,t,g
+Amanita Family,Fly Agaric,p,f,h,o,y,w,u,w,t,p
+Amanita Family,Panther Cap,p,p,g,n,y,w,u,w,t,p
+Amanita Family,Panther Cap,p,x,g,n,y,w,u,w,t,p
+Amanita Family,False Panther Cap,p,x,,g,,w,u,w,t,e
+Amanita Family,False Panther Cap,p,x,,g,,w,u,w,t,g
+Amanita Family,False Panther Cap,p,x,,n,,w,u,w,t,e
+Amanita Family,False Panther Cap,p,x,,n,,w,u,w,t,g
+Amanita Family,False Panther Cap,p,f,,g,,w,u,w,t,e
+Amanita Family,False Panther Cap,p,f,,g,,w,u,w,t,g
+Amanita Family,False Panther Cap,p,f,,n,,w,u,w,t,e
+Amanita Family,False Panther Cap,p,f,,n,,w,u,w,t,g
+Amanita Family,The Blusher,e,x,,n,,w,u,w,t,g
+Amanita Family,The Blusher,e,f,,n,,w,u,w,t,g
+Amanita Family,Death Cap,p,x,h,r,,w,u,w,t,g
+Amanita Family,Death Cap,p,x,h,r,,w,u,w,t,p
+Amanita Family,Death Cap,p,f,h,r,,w,u,w,t,g
+Amanita Family,Death Cap,p,f,h,r,,w,u,w,t,p
+Amanita Family,False Death Cap,e,x,,w,,w,u,y,t,g
+Amanita Family,False Death Cap,e,x,,w,,w,u,w,t,g
+Amanita Family,False Death Cap,e,x,,w,,y,u,y,t,g
+Amanita Family,False Death Cap,e,x,,w,,y,u,w,t,g
+Amanita Family,False Death Cap,e,x,,y,,w,u,y,t,g
+Amanita Family,False Death Cap,e,x,,y,,w,u,w,t,g
+Amanita Family,False Death Cap,e,x,,y,,y,u,y,t,g
+Amanita Family,False Death Cap,e,x,,y,,y,u,w,t,g
+Amanita Family,Destroying Angel,p,b,t,w,y,w,u,w,t,l
+Amanita Family,Destroying Angel,p,b,t,w,y,w,u,w,t,e
+Amanita Family,Tawny Grisette,e,c,h,n,s,w,u,w,f,f
+Amanita Family,Tawny Grisette,e,c,h,n,s,n,u,w,f,f
+Amanita Family,Tawny Grisette,e,c,t,n,s,w,u,w,f,f
+Amanita Family,Tawny Grisette,e,c,t,n,s,n,u,w,f,f
+Amanita Family,Tawny Grisette,e,x,h,n,s,w,u,w,f,f
+Amanita Family,Tawny Grisette,e,x,h,n,s,n,u,w,f,f
+Amanita Family,Tawny Grisette,e,x,t,n,s,w,u,w,f,f
+Amanita Family,Tawny Grisette,e,x,t,n,s,n,u,w,f,f
+Lepiota Family,Parasol Mushroom,e,p,y,w,,n,,,t,m
+Lepiota Family,Parasol Mushroom,e,p,y,n,,n,,,t,m
+Lepiota Family,Parasol Mushroom,e,f,y,w,,n,,,t,m
+Lepiota Family,Parasol Mushroom,e,f,y,n,,n,,,t,m
+Lepiota Family,Shaggy Parasol,e,x,e,n,,w,,,t,
+Lepiota Family,Shaggy Parasol,e,x,y,n,,w,,,t,
+Lepiota Family,Stinking Parasol,p,b,y,e,k,w,,,t,e
+Lepiota Family,Stinking Parasol,p,b,y,n,k,w,,,t,e
+Lepiota Family,Stinking Parasol,p,b,y,p,k,w,,,t,e
+Lepiota Family,Stinking Parasol,p,b,y,w,k,w,,,t,e
+Lepiota Family,Stinking Parasol,p,f,y,e,k,w,,,t,e
+Lepiota Family,Stinking Parasol,p,f,y,n,k,w,,,t,e
+Lepiota Family,Stinking Parasol,p,f,y,p,k,w,,,t,e
+Lepiota Family,Stinking Parasol,p,f,y,w,k,w,,,t,e
+Tricholoma Family,Saffron Parasol,p,x,y,y,y,y,,,t,r
+Tricholoma Family,Saffron Parasol,p,x,y,y,y,n,,,t,r
+Tricholoma Family,Saffron Parasol,p,x,y,n,y,y,,,t,r
+Tricholoma Family,Saffron Parasol,p,x,y,n,y,n,,,t,r
+Tricholoma Family,The Deceiver,e,f,y,n,i,n,,,f,f
+Tricholoma Family,The Deceiver,e,s,y,n,i,n,,,f,f
+Tricholoma Family,Amethyst Deceiver,e,x,,b,,w,,,f,f
+Tricholoma Family,Amethyst Deceiver,e,x,,u,,w,,,f,f
+Tricholoma Family,Wood Blewit,e,f,,l,,b,,,f,f
+Tricholoma Family,Wood Blewit,e,f,,l,,u,,,f,f
+Tricholoma Family,Wood Blewit,e,f,,u,,b,,,f,f
+Tricholoma Family,Wood Blewit,e,f,,u,,u,,,f,f
+Tricholoma Family,Wood Blewit,e,f,,g,,b,,,f,f
+Tricholoma Family,Wood Blewit,e,f,,g,,u,,,f,f
+Tricholoma Family,Wood Blewit,e,f,,n,,b,,,f,f
+Tricholoma Family,Wood Blewit,e,f,,n,,u,,,f,f
+Tricholoma Family,Wood Blewit,e,s,,l,,b,,,f,f
+Tricholoma Family,Wood Blewit,e,s,,l,,u,,,f,f
+Tricholoma Family,Wood Blewit,e,s,,u,,b,,,f,f
+Tricholoma Family,Wood Blewit,e,s,,u,,u,,,f,f
+Tricholoma Family,Wood Blewit,e,s,,g,,b,,,f,f
+Tricholoma Family,Wood Blewit,e,s,,g,,u,,,f,f
+Tricholoma Family,Wood Blewit,e,s,,n,,b,,,f,f
+Tricholoma Family,Wood Blewit,e,s,,n,,u,,,f,f
+Tricholoma Family,Field Blewit,e,x,,g,,u,,,f,f
+Tricholoma Family,Field Blewit,e,x,,n,,u,,,f,f
+Tricholoma Family,Field Blewit,e,f,,g,,u,,,f,f
+Tricholoma Family,Field Blewit,e,f,,n,,u,,,f,f
+Tricholoma Family,Field Blewit,e,s,,g,,u,,,f,f
+Tricholoma Family,Field Blewit,e,s,,n,,u,,,f,f
+Tricholoma Family,Clouded Agaric,e,x,e,g,,w,,,f,f
+Tricholoma Family,Clouded Agaric,e,x,e,n,,w,,,f,f
+Tricholoma Family,Clouded Agaric,e,f,e,g,,w,,,f,f
+Tricholoma Family,Clouded Agaric,e,f,e,n,,w,,,f,f
+Tricholoma Family,Clouded Agaric,e,s,e,g,,w,,,f,f
+Tricholoma Family,Clouded Agaric,e,s,e,n,,w,,,f,f
+Tricholoma Family,Club-footed Funnel Cap,p,x,,g,,n,,,f,f
+Tricholoma Family,Club-footed Funnel Cap,p,x,,n,,n,,,f,f
+Tricholoma Family,Club-footed Funnel Cap,p,f,,g,,n,,,f,f
+Tricholoma Family,Club-footed Funnel Cap,p,f,,n,,n,,,f,f
+Tricholoma Family,Common Funnel Cap,e,s,,n,s,w,,,f,f
+Tricholoma Family,Aniseed Funnel Cap,e,x,,l,,l,,,f,f
+Tricholoma Family,Aniseed Funnel Cap,e,x,,l,,r,,,f,f
+Tricholoma Family,Aniseed Funnel Cap,e,x,,l,,w,,,f,f
+Tricholoma Family,Aniseed Funnel Cap,e,x,,r,,l,,,f,f
+Tricholoma Family,Aniseed Funnel Cap,e,x,,r,,r,,,f,f
+Tricholoma Family,Aniseed Funnel Cap,e,x,,r,,w,,,f,f
+Tricholoma Family,Aniseed Funnel Cap,e,x,,w,,l,,,f,f
+Tricholoma Family,Aniseed Funnel Cap,e,x,,w,,r,,,f,f
+Tricholoma Family,Aniseed Funnel Cap,e,x,,w,,w,,,f,f
+Tricholoma Family,Ivory Clitocybe,p,x,s,w,,w,,,f,f
+Tricholoma Family,Ivory Clitocybe,p,x,s,g,,w,,,f,f
+Tricholoma Family,Ivory Clitocybe,p,f,s,w,,w,,,f,f
+Tricholoma Family,Ivory Clitocybe,p,f,s,g,,w,,,f,f
+Tricholoma Family,Ivory Clitocybe,p,s,s,w,,w,,,f,f
+Tricholoma Family,Ivory Clitocybe,p,s,s,g,,w,,,f,f
+Tricholoma Family,Wood Woolly-foot,p,f,l,n,,n,,,f,f
+Tricholoma Family,Wood Woolly-foot,p,f,l,n,,y,,,f,f
+Tricholoma Family,Wood Woolly-foot,p,f,l,e,,n,,,f,f
+Tricholoma Family,Wood Woolly-foot,p,f,l,e,,y,,,f,f
+Tricholoma Family,Wood Woolly-foot,p,f,l,y,,n,,,f,f
+Tricholoma Family,Wood Woolly-foot,p,f,l,y,,y,,,f,f
+Tricholoma Family,Russet Tough Shank,p,f,d,n,i,n,,,f,f
+Tricholoma Family,Russet Tough Shank,p,f,d,n,s,n,,,f,f
+Tricholoma Family,Russet Tough Shank,p,f,d,b,i,n,,,f,f
+Tricholoma Family,Russet Tough Shank,p,f,d,b,s,n,,,f,f
+Tricholoma Family,Clustered Tough Shank,p,x,,n,,n,,,f,f
+Tricholoma Family,Clustered Tough Shank,p,x,,n,,p,,,f,f
+Tricholoma Family,Clustered Tough Shank,p,x,,w,,n,,,f,f
+Tricholoma Family,Clustered Tough Shank,p,x,,w,,p,,,f,f
+Tricholoma Family,Clustered Tough Shank,p,f,,n,,n,,,f,f
+Tricholoma Family,Clustered Tough Shank,p,f,,n,,p,,,f,f
+Tricholoma Family,Clustered Tough Shank,p,f,,w,,n,,,f,f
+Tricholoma Family,Clustered Tough Shank,p,f,,w,,p,,,f,f
+Tricholoma Family,Greasy Tough Shank,e,x,s,n,s,n,,,f,f
+Tricholoma Family,Greasy Tough Shank,e,x,s,b,s,n,,,f,f
+Tricholoma Family,Greasy Tough Shank,e,f,s,n,s,n,,,f,f
+Tricholoma Family,Greasy Tough Shank,e,f,s,b,s,n,,,f,f
+Tricholoma Family,Spotted Tough Shank,p,x,,w,i,w,,,f,f
+Tricholoma Family,Spotted Tough Shank,p,x,,n,i,w,,,f,f
+Tricholoma Family,Spotted Tough Shank,p,f,,w,i,w,,,f,f
+Tricholoma Family,Spotted Tough Shank,p,f,,n,i,w,,,f,f
+Tricholoma Family,Fairy Ring Champignon,e,b,g,n,,y,,,f,f
+Tricholoma Family,Fairy Ring Champignon,e,b,g,w,,y,,,f,f
+Tricholoma Family,Little Wheel Fungus,p,x,g,w,,n,,,f,f
+Tricholoma Family,Little Wheel Fungus,p,x,g,w,,e,,,f,f
+Tricholoma Family,Horse-hair Fungus,p,x,g,n,s,k,,,f,f
+Tricholoma Family,Horse-hair Fungus,p,x,g,n,h,k,,,f,f
+Tricholoma Family,Horse-hair Fungus,p,x,g,p,s,k,,,f,f
+Tricholoma Family,Horse-hair Fungus,p,x,g,p,h,k,,,f,f
+Tricholoma Family,Horse-hair Fungus,p,x,g,e,s,k,,,f,f
+Tricholoma Family,Horse-hair Fungus,p,x,g,e,h,k,,,f,f
+Tricholoma Family,Bonnet Bell Cap,e,b,g,n,s,n,,,f,f
+Tricholoma Family,Bonnet Bell Cap,e,b,g,n,s,g,,,f,f
+Tricholoma Family,Bonnet Bell Cap,e,b,g,g,s,n,,,f,f
+Tricholoma Family,Bonnet Bell Cap,e,b,g,g,s,g,,,f,f
+Tricholoma Family,Bonnet Bell Cap,e,f,g,n,s,n,,,f,f
+Tricholoma Family,Bonnet Bell Cap,e,f,g,n,s,g,,,f,f
+Tricholoma Family,Bonnet Bell Cap,e,f,g,g,s,n,,,f,f
+Tricholoma Family,Bonnet Bell Cap,e,f,g,g,s,g,,,f,f
+Tricholoma Family,Stump Bell Cap,p,b,,g,s,g,,,f,f
+Tricholoma Family,Stump Bell Cap,p,b,,g,s,n,,,f,f
+Tricholoma Family,Stump Bell Cap,p,b,,n,s,g,,,f,f
+Tricholoma Family,Stump Bell Cap,p,b,,n,s,n,,,f,f
+Tricholoma Family,Tufted Bell Cap,p,x,g,e,,n,,,f,f
+Tricholoma Family,Tufted Bell Cap,p,x,g,e,,w,,,f,f
+Tricholoma Family,Tufted Bell Cap,p,x,g,n,,n,,,f,f
+Tricholoma Family,Tufted Bell Cap,p,x,g,n,,w,,,f,f
+Tricholoma Family,Milky Bell Cap,e,c,g,n,,g,,,f,f
+Tricholoma Family,Small Bleeding Bell Cap,e,c,g,n,,n,,,f,f
+Tricholoma Family,Small Bleeding Bell Cap,e,c,g,e,,n,,,f,f
+Tricholoma Family,Small Bleeding Bell Cap,e,x,g,n,,n,,,f,f
+Tricholoma Family,Small Bleeding Bell Cap,e,x,g,e,,n,,,f,f
+Tricholoma Family,Small Bleeding Bell Cap,e,f,g,n,,n,,,f,f
+Tricholoma Family,Small Bleeding Bell Cap,e,f,g,e,,n,,,f,f
+Tricholoma Family,Lilac Bell Cap,p,b,w,u,s,u,,,f,f
+Tricholoma Family,Lilac Bell Cap,p,f,w,u,s,u,,,f,f
+Tricholoma Family,Lilac Bell Cap,p,s,w,u,s,u,,,f,f
+Tricholoma Family,Yellow-stemmed Bell Cap,e,x,g,n,t,y,,,f,f
+Tricholoma Family,Yellow-stemmed Bell Cap,e,x,g,y,t,y,,,f,f
+Tricholoma Family,Yellow-stemmed Bell Cap,e,x,s,n,t,y,,,f,f
+Tricholoma Family,Yellow-stemmed Bell Cap,e,x,s,y,t,y,,,f,f
+Tricholoma Family,Yellow-stemmed Bell Cap,e,x,t,n,t,y,,,f,f
+Tricholoma Family,Yellow-stemmed Bell Cap,e,x,t,y,t,y,,,f,f
+Tricholoma Family,Orange Bell Cap,p,x,g,o,,w,,,f,f
+Tricholoma Family,Orange Bell Cap,p,x,g,o,,y,,,f,f
+Tricholoma Family,Orange Bell Cap,p,x,g,y,,w,,,f,f
+Tricholoma Family,Orange Bell Cap,p,x,g,y,,y,,,f,f
+Tricholoma Family,Orange Moss Agaric,p,x,,o,,o,,,f,f
+Tricholoma Family,Orange Moss Agaric,p,x,,o,,y,,,f,f
+Tricholoma Family,Orange Moss Agaric,p,f,,o,,o,,,f,f
+Tricholoma Family,Orange Moss Agaric,p,f,,o,,y,,,f,f
+Tricholoma Family,Umbrella Navel Cap,p,x,g,n,s,n,,,f,f
+Tricholoma Family,Umbrella Navel Cap,p,x,g,y,s,n,,,f,f
+Tricholoma Family,Rooting Shank,p,x,h,n,g,n,,,f,f
+Tricholoma Family,Rooting Shank,p,x,h,e,g,n,,,f,f
+Tricholoma Family,Rooting Shank,p,x,t,n,g,n,,,f,f
+Tricholoma Family,Rooting Shank,p,x,t,e,g,n,,,f,f
+Tricholoma Family,Rooting Shank,p,x,w,n,g,n,,,f,f
+Tricholoma Family,Rooting Shank,p,x,w,e,g,n,,,f,f
+Tricholoma Family,Rooting Shank,p,f,h,n,g,n,,,f,f
+Tricholoma Family,Rooting Shank,p,f,h,e,g,n,,,f,f
+Tricholoma Family,Rooting Shank,p,f,t,n,g,n,,,f,f
+Tricholoma Family,Rooting Shank,p,f,t,e,g,n,,,f,f
+Tricholoma Family,Rooting Shank,p,f,w,n,g,n,,,f,f
+Tricholoma Family,Rooting Shank,p,f,w,e,g,n,,,f,f
+Tricholoma Family,Porcelain Mushroom,e,x,h,g,t,g,,,t,l
+Tricholoma Family,Porcelain Mushroom,e,x,h,g,t,w,,,t,l
+Tricholoma Family,Porcelain Mushroom,e,x,h,n,t,g,,,t,l
+Tricholoma Family,Porcelain Mushroom,e,x,h,n,t,w,,,t,l
+Tricholoma Family,Porcelain Mushroom,e,x,t,g,t,g,,,t,l
+Tricholoma Family,Porcelain Mushroom,e,x,t,g,t,w,,,t,l
+Tricholoma Family,Porcelain Mushroom,e,x,t,n,t,g,,,t,l
+Tricholoma Family,Porcelain Mushroom,e,x,t,n,t,w,,,t,l
+Tricholoma Family,Velvet Shank,e,x,h,o,k,o,,,f,f
+Tricholoma Family,Velvet Shank,e,x,h,o,k,n,,,f,f
+Tricholoma Family,Velvet Shank,e,x,h,o,s,o,,,f,f
+Tricholoma Family,Velvet Shank,e,x,h,o,s,n,,,f,f
+Tricholoma Family,Velvet Shank,e,x,h,n,k,o,,,f,f
+Tricholoma Family,Velvet Shank,e,x,h,n,k,n,,,f,f
+Tricholoma Family,Velvet Shank,e,x,h,n,s,o,,,f,f
+Tricholoma Family,Velvet Shank,e,x,h,n,s,n,,,f,f
+Tricholoma Family,Velvet Shank,e,x,t,o,k,o,,,f,f
+Tricholoma Family,Velvet Shank,e,x,t,o,k,n,,,f,f
+Tricholoma Family,Velvet Shank,e,x,t,o,s,o,,,f,f
+Tricholoma Family,Velvet Shank,e,x,t,o,s,n,,,f,f
+Tricholoma Family,Velvet Shank,e,x,t,n,k,o,,,f,f
+Tricholoma Family,Velvet Shank,e,x,t,n,k,n,,,f,f
+Tricholoma Family,Velvet Shank,e,x,t,n,s,o,,,f,f
+Tricholoma Family,Velvet Shank,e,x,t,n,s,n,,,f,f
+Tricholoma Family,Velvet Shank,e,f,h,o,k,o,,,f,f
+Tricholoma Family,Velvet Shank,e,f,h,o,k,n,,,f,f
+Tricholoma Family,Velvet Shank,e,f,h,o,s,o,,,f,f
+Tricholoma Family,Velvet Shank,e,f,h,o,s,n,,,f,f
+Tricholoma Family,Velvet Shank,e,f,h,n,k,o,,,f,f
+Tricholoma Family,Velvet Shank,e,f,h,n,k,n,,,f,f
+Tricholoma Family,Velvet Shank,e,f,h,n,s,o,,,f,f
+Tricholoma Family,Velvet Shank,e,f,h,n,s,n,,,f,f
+Tricholoma Family,Velvet Shank,e,f,t,o,k,o,,,f,f
+Tricholoma Family,Velvet Shank,e,f,t,o,k,n,,,f,f
+Tricholoma Family,Velvet Shank,e,f,t,o,s,o,,,f,f
+Tricholoma Family,Velvet Shank,e,f,t,o,s,n,,,f,f
+Tricholoma Family,Velvet Shank,e,f,t,n,k,o,,,f,f
+Tricholoma Family,Velvet Shank,e,f,t,n,k,n,,,f,f
+Tricholoma Family,Velvet Shank,e,f,t,n,s,o,,,f,f
+Tricholoma Family,Velvet Shank,e,f,t,n,s,n,,,f,f
+Tricholoma Family,Honey Fungus,e,x,s,e,i,n,,,t,
+Tricholoma Family,Honey Fungus,e,x,s,n,i,n,,,t,
+Tricholoma Family,Honey Fungus,e,x,s,y,i,n,,,t,
+Tricholoma Family,Honey Fungus,e,f,s,e,i,n,,,t,
+Tricholoma Family,Honey Fungus,e,f,s,n,i,n,,,t,
+Tricholoma Family,Honey Fungus,e,f,s,y,i,n,,,t,
+Tricholoma Family,Bulbous Honey Fungus,e,x,y,e,,n,,w,t,e
+Tricholoma Family,Bulbous Honey Fungus,e,x,y,n,,n,,w,t,e
+Tricholoma Family,Bulbous Honey Fungus,e,x,y,y,,n,,w,t,e
+Tricholoma Family,Bulbous Honey Fungus,e,f,y,e,,n,,w,t,e
+Tricholoma Family,Bulbous Honey Fungus,e,f,y,n,,n,,w,t,e
+Tricholoma Family,Bulbous Honey Fungus,e,f,y,y,,n,,w,t,e
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,g,i,w,,,f,f
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,g,i,n,,,f,f
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,g,y,w,,,f,f
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,g,y,n,,,f,f
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,r,i,w,,,f,f
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,r,i,n,,,f,f
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,r,y,w,,,f,f
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,r,y,n,,,f,f
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,n,i,w,,,f,f
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,n,i,n,,,f,f
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,n,y,w,,,f,f
+Tricholoma Family,Soap-scented Tricholoma,p,x,s,n,y,n,,,f,f
+Tricholoma Family,Grey Tricholoma,e,b,h,g,s,g,,,f,f
+Tricholoma Family,Grey Tricholoma,e,b,h,k,s,g,,,f,f
+Tricholoma Family,Grey Tricholoma,e,f,h,g,s,g,,,f,f
+Tricholoma Family,Grey Tricholoma,e,f,h,k,s,g,,,f,f
+Tricholoma Family,Scaly Tricholoma,e,x,y,g,,w,,,f,f
+Tricholoma Family,Scaly Tricholoma,e,x,y,n,,w,,,f,f
+Tricholoma Family,Scaly Tricholoma,e,f,y,g,,w,,,f,f
+Tricholoma Family,Scaly Tricholoma,e,f,y,n,,w,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,g,n,i,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,g,n,i,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,g,n,t,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,g,n,t,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,g,o,i,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,g,o,i,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,g,o,t,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,g,o,t,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,s,n,i,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,s,n,i,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,s,n,t,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,s,n,t,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,s,o,i,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,s,o,i,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,s,o,t,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,s,o,t,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,h,n,i,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,h,n,i,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,h,n,t,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,h,n,t,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,h,o,i,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,h,o,i,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,h,o,t,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,h,o,t,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,t,n,i,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,t,n,i,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,t,n,t,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,t,n,t,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,t,o,i,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,t,o,i,o,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,t,o,t,n,,,f,f
+Tricholoma Family,Yellow-brown Tricholoma,e,f,t,o,t,o,,,f,f
+Tricholoma Family,Sulphur Tricholoma,p,x,,y,i,y,,,f,f
+Tricholoma Family,Sulphur Tricholoma,p,f,,y,i,y,,,f,f
+Tricholoma Family,St George's Mushroom,e,x,d,w,,w,,,f,f
+Tricholoma Family,St George's Mushroom,e,x,s,w,,w,,,f,f
+Tricholoma Family,St George's Mushroom,e,f,d,w,,w,,,f,f
+Tricholoma Family,St George's Mushroom,e,f,s,w,,w,,,f,f
+Tricholoma Family,Clustered Brown Cap,e,p,,g,,g,,,f,f
+Tricholoma Family,Clustered Brown Cap,e,p,,g,,w,,,f,f
+Tricholoma Family,Clustered Brown Cap,e,p,,n,,g,,,f,f
+Tricholoma Family,Clustered Brown Cap,e,p,,n,,w,,,f,f
+Tricholoma Family,Clustered Brown Cap,e,x,,g,,g,,,f,f
+Tricholoma Family,Clustered Brown Cap,e,x,,g,,w,,,f,f
+Tricholoma Family,Clustered Brown Cap,e,x,,n,,g,,,f,f
+Tricholoma Family,Clustered Brown Cap,e,x,,n,,w,,,f,f
+Tricholoma Family,Changeable Melanoleuca,e,f,s,n,i,n,,,f,f
+Tricholoma Family,Changeable Melanoleuca,e,f,s,n,i,w,,,f,f
+Tricholoma Family,Plums and custard,p,f,y,e,y,e,,,f,f
+Tricholoma Family,Plums and custard,p,f,y,e,y,u,,,f,f
+Tricholoma Family,Plums and custard,p,f,y,e,y,y,,,f,f
+Tricholoma Family,Plums and custard,p,f,y,u,y,e,,,f,f
+Tricholoma Family,Plums and custard,p,f,y,u,y,u,,,f,f
+Tricholoma Family,Plums and custard,p,f,y,u,y,y,,,f,f
+Tricholoma Family,Plums and custard,p,f,y,y,y,e,,,f,f
+Tricholoma Family,Plums and custard,p,f,y,y,y,u,,,f,f
+Tricholoma Family,Plums and custard,p,f,y,y,y,y,,,f,f
+Wax Gill Family,Ivory Wax Cap,e,x,s,w,,w,,,f,f
+Wax Gill Family,Ivory Wax Cap,e,f,s,w,,w,,,f,f
+Wax Gill Family,Yellow Wax cap,p,x,h,o,g,o,,,f,f
+Wax Gill Family,Yellow Wax cap,p,x,h,y,g,o,,,f,f
+Wax Gill Family,Yellow Wax cap,p,x,s,o,g,o,,,f,f
+Wax Gill Family,Yellow Wax cap,p,x,s,y,g,o,,,f,f
+Wax Gill Family,Yellow Wax cap,p,x,t,o,g,o,,,f,f
+Wax Gill Family,Yellow Wax cap,p,x,t,y,g,o,,,f,f
+Wax Gill Family,Orange-red Wax Cap,p,x,s,o,,o,,,f,f
+Wax Gill Family,Orange-red Wax Cap,p,x,s,o,,y,,,f,f
+Wax Gill Family,Orange-red Wax Cap,p,x,y,o,,o,,,f,f
+Wax Gill Family,Orange-red Wax Cap,p,x,y,o,,y,,,f,f
+Wax Gill Family,Orange-red Wax Cap,p,f,s,o,,o,,,f,f
+Wax Gill Family,Orange-red Wax Cap,p,f,s,o,,y,,,f,f
+Wax Gill Family,Orange-red Wax Cap,p,f,y,o,,o,,,f,f
+Wax Gill Family,Orange-red Wax Cap,p,f,y,o,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,s,e,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,s,e,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,s,e,,k,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,s,o,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,s,o,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,s,o,,k,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,s,k,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,s,k,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,s,k,,k,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,i,e,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,i,e,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,i,e,,k,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,i,o,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,i,o,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,i,o,,k,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,i,k,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,i,k,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,b,i,k,,k,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,s,e,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,s,e,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,s,e,,k,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,s,o,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,s,o,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,s,o,,k,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,s,k,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,s,k,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,s,k,,k,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,i,e,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,i,e,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,i,e,,k,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,i,o,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,i,o,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,i,o,,k,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,i,k,,y,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,i,k,,o,,,f,f
+Wax Gill Family,Blackening Wax Cap,p,x,i,k,,k,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,x,s,o,,w,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,x,s,b,,w,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,x,d,o,,w,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,x,d,b,,w,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,f,s,o,,w,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,f,s,b,,w,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,f,d,o,,w,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,f,d,b,,w,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,s,s,o,,w,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,s,s,b,,w,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,s,d,o,,w,,,f,f
+Wax Gill Family,Meadow Wax Cap,e,s,d,b,,w,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,h,o,,o,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,h,o,,e,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,h,p,,o,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,h,p,,e,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,h,e,,o,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,h,e,,e,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,s,o,,o,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,s,o,,e,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,s,p,,o,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,s,p,,e,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,s,e,,o,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,s,e,,e,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,d,o,,o,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,d,o,,e,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,d,p,,o,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,d,p,,e,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,d,e,,o,,,f,f
+Wax Gill Family,Scarlet Hood,e,x,d,e,,e,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,t,r,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,t,r,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,t,p,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,t,p,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,t,y,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,t,y,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,w,r,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,w,r,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,w,p,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,w,p,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,w,y,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,w,y,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,d,r,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,d,r,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,d,p,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,d,p,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,d,y,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,b,d,y,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,t,r,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,t,r,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,t,p,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,t,p,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,t,y,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,t,y,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,w,r,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,w,r,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,w,p,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,w,p,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,w,y,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,w,y,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,d,r,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,d,r,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,d,p,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,d,p,t,y,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,d,y,t,r,,,f,f
+Wax Gill Family,Parrot Wax Cap,p,f,d,y,t,y,,,f,f
+Wax Gill Family,Herald of Winter,e,x,t,n,t,w,,,f,f
+Wax Gill Family,Herald of Winter,e,x,t,n,t,o,,,f,f
+Wax Gill Family,Herald of Winter,e,f,t,n,t,w,,,f,f
+Wax Gill Family,Herald of Winter,e,f,t,n,t,o,,,f,f
+Russula Family,Common Yellow Russula,e,x,,y,,g,,,f,f
+Russula Family,Common Yellow Russula,e,x,,y,,w,,,f,f
+Russula Family,Common Yellow Russula,e,f,,y,,g,,,f,f
+Russula Family,Common Yellow Russula,e,f,,y,,w,,,f,f
+Russula Family,Common Yellow Russula,e,s,,y,,g,,,f,f
+Russula Family,Common Yellow Russula,e,s,,y,,w,,,f,f
+Russula Family,Yellow-gilled Russula,e,x,,y,,w,,,f,f
+Russula Family,Yellow Swamp Russula,e,x,h,y,,w,,,f,f
+Russula Family,Yellow Swamp Russula,e,x,t,y,,w,,,f,f
+Russula Family,Geranium-scented Russula,p,x,t,n,,y,,,f,f
+Russula Family,Geranium-scented Russula,p,x,t,y,,y,,,f,f
+Russula Family,Geranium-scented Russula,p,f,t,n,,y,,,f,f
+Russula Family,Geranium-scented Russula,p,f,t,y,,y,,,f,f
+Russula Family,Geranium-scented Russula,p,s,t,n,,y,,,f,f
+Russula Family,Geranium-scented Russula,p,s,t,y,,y,,,f,f
+Russula Family,Stinking Russula,p,x,t,n,,w,,,f,f
+Russula Family,Fragile Russula,p,f,,u,,w,,,f,f
+Russula Family,Fragile Russula,p,f,,u,,y,,,f,f
+Russula Family,Fragile Russula,p,s,,u,,w,,,f,f
+Russula Family,Fragile Russula,p,s,,u,,y,,,f,f
+Russula Family,Birch Russula,p,x,,b,,w,,,f,f
+Russula Family,Birch Russula,p,x,,p,,w,,,f,f
+Russula Family,Birch Russula,p,x,,e,,w,,,f,f
+Russula Family,Birch Russula,p,x,,y,,w,,,f,f
+Russula Family,Birch Russula,p,f,,b,,w,,,f,f
+Russula Family,Birch Russula,p,f,,p,,w,,,f,f
+Russula Family,Birch Russula,p,f,,e,,w,,,f,f
+Russula Family,Birch Russula,p,f,,y,,w,,,f,f
+Russula Family,Bare-toothed Russula,e,x,,n,s,w,,,f,f
+Russula Family,Bare-toothed Russula,e,x,,p,s,w,,,f,f
+Russula Family,Bare-toothed Russula,e,x,,e,s,w,,,f,f
+Russula Family,Bare-toothed Russula,e,f,,n,s,w,,,f,f
+Russula Family,Bare-toothed Russula,e,f,,p,s,w,,,f,f
+Russula Family,Bare-toothed Russula,e,f,,e,s,w,,,f,f
+Russula Family,The Charcoal Burner,e,x,e,l,,w,,,f,f
+Russula Family,The Charcoal Burner,e,x,e,y,,w,,,f,f
+Russula Family,Blackish Purple Russula,e,x,s,u,,w,,,f,f
+Russula Family,Blackish Purple Russula,e,x,s,k,,w,,,f,f
+Russula Family,Blackish Purple Russula,e,f,s,u,,w,,,f,f
+Russula Family,Blackish Purple Russula,e,f,s,k,,w,,,f,f
+Russula Family,Blackening Russula,e,x,s,k,,w,,,f,f
+Russula Family,Blackening Russula,e,x,s,n,,w,,,f,f
+Russula Family,Blackening Russula,e,x,s,w,,w,,,f,f
+Russula Family,Blackening Russula,e,x,t,k,,w,,,f,f
+Russula Family,Blackening Russula,e,x,t,n,,w,,,f,f
+Russula Family,Blackening Russula,e,x,t,w,,w,,,f,f
+Russula Family,Blackening Russula,e,f,s,k,,w,,,f,f
+Russula Family,Blackening Russula,e,f,s,n,,w,,,f,f
+Russula Family,Blackening Russula,e,f,s,w,,w,,,f,f
+Russula Family,Blackening Russula,e,f,t,k,,w,,,f,f
+Russula Family,Blackening Russula,e,f,t,n,,w,,,f,f
+Russula Family,Blackening Russula,e,f,t,w,,w,,,f,f
+Russula Family,Blackening Russula,e,s,s,k,,w,,,f,f
+Russula Family,Blackening Russula,e,s,s,n,,w,,,f,f
+Russula Family,Blackening Russula,e,s,s,w,,w,,,f,f
+Russula Family,Blackening Russula,e,s,t,k,,w,,,f,f
+Russula Family,Blackening Russula,e,s,t,n,,w,,,f,f
+Russula Family,Blackening Russula,e,s,t,w,,w,,,f,f
+Russula Family,The Sickener,p,x,h,e,,w,,,f,f
+Russula Family,The Sickener,p,x,t,e,,w,,,f,f
+Russula Family,The Sickener,p,f,h,e,,w,,,f,f
+Russula Family,The Sickener,p,f,t,e,,w,,,f,f
+Russula Family,Beechwood Sickener,p,x,,e,,y,,,f,f
+Russula Family,Beechwood Sickener,p,x,,p,,y,,,f,f
+Russula Family,Beechwood Sickener,p,x,,w,,y,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,n,,n,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,n,,p,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,n,,w,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,r,,n,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,r,,p,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,r,,w,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,u,,n,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,u,,p,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,u,,w,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,y,,n,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,y,,p,,,f,f
+Russula Family,Crab-scented Russula,e,x,s,y,,w,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,n,,n,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,n,,p,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,n,,w,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,r,,n,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,r,,p,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,r,,w,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,u,,n,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,u,,p,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,u,,w,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,y,,n,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,y,,p,,,f,f
+Russula Family,Crab-scented Russula,e,f,s,y,,w,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,n,,n,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,n,,p,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,n,,w,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,r,,n,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,r,,p,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,r,,w,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,u,,n,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,u,,p,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,u,,w,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,y,,n,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,y,,p,,,f,f
+Russula Family,Crab-scented Russula,e,s,s,y,,w,,,f,f
+Russula Family,Grass-green Russula,p,f,,r,,w,,,f,f
+Russula Family,Grass-green Russula,p,f,,y,,w,,,f,f
+Russula Family,Peppery Milk Cap,e,s,,w,,w,,,f,f
+Russula Family,Fleecy Milk Cap,p,x,k,w,,w,,,f,f
+Russula Family,Fleecy Milk Cap,p,f,k,w,,w,,,f,f
+Russula Family,Fleecy Milk Cap,p,s,k,w,,w,,,f,f
+Russula Family,Oak Milk Cap,p,x,d,n,,e,,,f,f
+Russula Family,Oak Milk Cap,p,x,d,n,,n,,,f,f
+Russula Family,Oak Milk Cap,p,x,d,e,,e,,,f,f
+Russula Family,Oak Milk Cap,p,x,d,e,,n,,,f,f
+Russula Family,Oak Milk Cap,p,s,d,n,,e,,,f,f
+Russula Family,Oak Milk Cap,p,s,d,n,,n,,,f,f
+Russula Family,Oak Milk Cap,p,s,d,e,,e,,,f,f
+Russula Family,Oak Milk Cap,p,s,d,e,,n,,,f,f
+Russula Family,Slimy Milk Cap,p,s,h,g,t,g,,,f,f
+Russula Family,Slimy Milk Cap,p,s,h,g,t,r,,,f,f
+Russula Family,Slimy Milk Cap,p,s,h,g,t,n,,,f,f
+Russula Family,Slimy Milk Cap,p,s,h,r,t,g,,,f,f
+Russula Family,Slimy Milk Cap,p,s,h,r,t,r,,,f,f
+Russula Family,Slimy Milk Cap,p,s,h,r,t,n,,,f,f
+Russula Family,Slimy Milk Cap,p,s,h,n,t,g,,,f,f
+Russula Family,Slimy Milk Cap,p,s,h,n,t,r,,,f,f
+Russula Family,Slimy Milk Cap,p,s,h,n,t,n,,,f,f
+Russula Family,Slimy Milk Cap,p,s,t,g,t,g,,,f,f
+Russula Family,Slimy Milk Cap,p,s,t,g,t,r,,,f,f
+Russula Family,Slimy Milk Cap,p,s,t,g,t,n,,,f,f
+Russula Family,Slimy Milk Cap,p,s,t,r,t,g,,,f,f
+Russula Family,Slimy Milk Cap,p,s,t,r,t,r,,,f,f
+Russula Family,Slimy Milk Cap,p,s,t,r,t,n,,,f,f
+Russula Family,Slimy Milk Cap,p,s,t,n,t,g,,,f,f
+Russula Family,Slimy Milk Cap,p,s,t,n,t,r,,,f,f
+Russula Family,Slimy Milk Cap,p,s,t,n,t,n,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,g,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,g,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,g,,n,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,r,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,r,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,r,,n,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,k,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,k,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,k,,n,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,n,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,n,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,x,t,n,,n,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,g,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,g,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,g,,n,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,r,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,r,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,r,,n,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,k,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,k,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,k,,n,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,n,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,n,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,f,t,n,,n,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,g,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,g,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,g,,n,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,r,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,r,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,r,,n,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,k,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,k,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,k,,n,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,n,,g,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,n,,r,,,f,f
+Russula Family,Ugly Milk Cap,p,s,t,n,,n,,,f,f
+Russula Family,Rufous Milk Cap,p,f,d,n,,n,,,f,f
+Russula Family,Rufous Milk Cap,p,f,d,n,,e,,,f,f
+Russula Family,Rufous Milk Cap,p,f,d,e,,n,,,f,f
+Russula Family,Rufous Milk Cap,p,f,d,e,,e,,,f,f
+Russula Family,Rufous Milk Cap,p,s,d,n,,n,,,f,f
+Russula Family,Rufous Milk Cap,p,s,d,n,,e,,,f,f
+Russula Family,Rufous Milk Cap,p,s,d,e,,n,,,f,f
+Russula Family,Rufous Milk Cap,p,s,d,e,,e,,,f,f
+Russula Family,Sweet Milk Cap,p,s,,e,,e,,,f,f
+Russula Family,Sweet Milk Cap,p,s,,e,,n,,,f,f
+Russula Family,Sweet Milk Cap,p,s,,n,,e,,,f,f
+Russula Family,Sweet Milk Cap,p,s,,n,,n,,,f,f
+Russula Family,Small Brown Milk Cap,p,f,w,n,,n,,,f,f
+Russula Family,Small Brown Milk Cap,p,f,w,o,,n,,,f,f
+Russula Family,Small Brown Milk Cap,p,s,w,n,,n,,,f,f
+Russula Family,Small Brown Milk Cap,p,s,w,o,,n,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,f,d,g,,g,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,f,d,g,,n,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,f,d,u,,g,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,f,d,u,,n,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,f,d,n,,g,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,f,d,n,,n,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,f,d,p,,g,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,f,d,p,,n,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,s,d,g,,g,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,s,d,g,,n,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,s,d,u,,g,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,s,d,u,,n,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,s,d,n,,g,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,s,d,n,,n,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,s,d,p,,g,,,f,f
+Russula Family,Coconut-scented Milk Cap,e,s,d,p,,n,,,f,f
+Russula Family,Woolly Milk Cap,p,s,t,p,,p,,,t,f
+Russula Family,Saffron Milk Cap,e,s,t,w,,w,,,f,f
+Russula Family,Saffron Milk Cap,e,s,t,p,,w,,,f,f
+Russula Family,Saffron Milk Cap,e,s,t,o,,w,,,f,f
+Russula Family,Spruce Milk Cap,p,s,,o,,w,,,t,f
+Russula Family,Spruce Milk Cap,p,s,,y,,w,,,t,f
+Russula Family,Spruce Milk Cap,p,s,,r,,w,,,t,f
+Pluteus Family,Fawn Pluteus,e,x,s,n,i,w,,,f,f
+Pluteus Family,Fawn Pluteus,e,x,s,n,i,n,,,f,f
+Pluteus Family,Veined Pluteus,e,x,y,n,y,n,,,f,f
+Entoloma Family,Silky Nolanea,p,x,k,n,,n,,,f,f
+Entoloma Family,Silky Nolanea,p,x,k,w,,n,,,f,f
+Entoloma Family,Silky Nolanea,p,f,k,n,,n,,,f,f
+Entoloma Family,Silky Nolanea,p,f,k,w,,n,,,f,f
+Entoloma Family,Striated Nolanea,p,b,t,n,i,n,,,f,f
+Entoloma Family,Striated Nolanea,p,b,t,n,i,g,,,f,f
+Entoloma Family,Striated Nolanea,p,f,t,n,i,n,,,f,f
+Entoloma Family,Striated Nolanea,p,f,t,n,i,g,,,f,f
+Entoloma Family,White Leptonia,p,x,d,w,h,w,,,f,f
+Entoloma Family,White Leptonia,p,s,d,w,h,w,,,f,f
+Entoloma Family,Blue Leptonia,p,x,i,l,,w,,,f,f
+Entoloma Family,Blue Leptonia,p,x,i,k,,w,,,f,f
+Entoloma Family,Blue Leptonia,p,f,i,l,,w,,,f,f
+Entoloma Family,Blue Leptonia,p,f,i,k,,w,,,f,f
+Entoloma Family,Livid Entoloma,p,x,s,w,i,n,,,f,f
+Entoloma Family,Livid Entoloma,p,x,s,y,i,n,,,f,f
+Entoloma Family,Livid Entoloma,p,x,s,g,i,n,,,f,f
+Entoloma Family,Livid Entoloma,p,x,s,n,i,n,,,f,f
+Entoloma Family,Livid Entoloma,p,x,h,w,i,n,,,f,f
+Entoloma Family,Livid Entoloma,p,x,h,y,i,n,,,f,f
+Entoloma Family,Livid Entoloma,p,x,h,g,i,n,,,f,f
+Entoloma Family,Livid Entoloma,p,x,h,n,i,n,,,f,f
+Entoloma Family,The Miller,e,x,l,w,,w,,,f,f
+Entoloma Family,The Miller,e,s,l,w,,w,,,f,f
+Entoloma Family,Apricot Fungus,p,x,w,p,,p,,,f,f
+Entoloma Family,Apricot Fungus,p,f,w,p,,p,,,f,f
+Bolbitius Family,Egg Yolk Fungus,p,c,h,y,,y,,,f,f
+Bolbitius Family,Egg Yolk Fungus,p,c,h,n,,y,,,f,f
+Bolbitius Family,Egg Yolk Fungus,p,c,t,y,,y,,,f,f
+Bolbitius Family,Egg Yolk Fungus,p,c,t,n,,y,,,f,f
+Bolbitius Family,Egg Yolk Fungus,p,f,h,y,,y,,,f,f
+Bolbitius Family,Egg Yolk Fungus,p,f,h,n,,y,,,f,f
+Bolbitius Family,Egg Yolk Fungus,p,f,t,y,,y,,,f,f
+Bolbitius Family,Egg Yolk Fungus,p,f,t,n,,y,,,f,f
+Bolbitius Family,Brown Bell Cap,p,b,g,n,,n,,,f,f
+Bolbitius Family,Brown Bell Cap,p,b,g,o,,n,,,f,f
+Bolbitius Family,Brown Bell Cap,p,b,g,y,,n,,,f,f
+Bolbitius Family,Brown Bell Cap,p,b,g,w,,n,,,f,f
+Bolbitius Family,Spring Agaric,e,x,,n,,n,,w,t,
+Bolbitius Family,Spring Agaric,e,x,,n,,w,,w,t,
+Bolbitius Family,Spring Agaric,e,x,,w,,n,,w,t,
+Bolbitius Family,Spring Agaric,e,x,,w,,w,,w,t,
+Stropharia Family,Shaggy Pholiota,p,x,y,y,y,y,,,t,
+Stropharia Family,Shaggy Pholiota,p,x,y,y,y,n,,,t,
+Stropharia Family,Shaggy Pholiota,p,x,y,n,y,y,,,t,
+Stropharia Family,Shaggy Pholiota,p,x,y,n,y,n,,,t,
+Stropharia Family,Charcoal Pholiota,p,x,h,n,y,n,,,t,z
+Stropharia Family,Charcoal Pholiota,p,x,h,n,y,o,,,t,z
+Stropharia Family,Charcoal Pholiota,p,x,h,o,y,n,,,t,z
+Stropharia Family,Charcoal Pholiota,p,x,h,o,y,o,,,t,z
+Stropharia Family,Charcoal Pholiota,p,x,t,n,y,n,,,t,z
+Stropharia Family,Charcoal Pholiota,p,x,t,n,y,o,,,t,z
+Stropharia Family,Charcoal Pholiota,p,x,t,o,y,n,,,t,z
+Stropharia Family,Charcoal Pholiota,p,x,t,o,y,o,,,t,z
+Stropharia Family,Brown Stew Fungus,e,x,h,n,y,n,,,t,r
+Stropharia Family,Brown Stew Fungus,e,x,h,n,s,n,,,t,r
+Stropharia Family,Sulphur Tuft,p,b,s,y,,y,u,w,t,z
+Stropharia Family,Sulphur Tuft,p,x,s,y,,y,u,w,t,z
+Stropharia Family,Brick Caps,p,x,e,e,,y,,w,t,z
+Stropharia Family,Brick Caps,p,x,e,e,,e,,w,t,z
+Stropharia Family,Brick Caps,p,x,e,e,,n,,w,t,z
+Stropharia Family,Verdigris Toadstool,p,b,h,r,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,h,r,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,h,r,y,n,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,h,l,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,h,l,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,h,l,y,n,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,t,r,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,t,r,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,t,r,y,n,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,t,l,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,t,l,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,t,l,y,n,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,y,r,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,y,r,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,y,r,y,n,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,y,l,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,y,l,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,b,y,l,y,n,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,h,r,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,h,r,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,h,r,y,n,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,h,l,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,h,l,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,h,l,y,n,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,t,r,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,t,r,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,t,r,y,n,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,t,l,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,t,l,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,t,l,y,n,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,y,r,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,y,r,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,y,r,y,n,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,y,l,y,w,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,y,l,y,l,,,t,e
+Stropharia Family,Verdigris Toadstool,p,x,y,l,y,n,,,t,e
+Stropharia Family,Dung Roundhead,p,p,t,n,t,y,,,t,e
+Stropharia Family,Magic Mushroom,p,b,t,n,,n,,,t,f
+Stropharia Family,Magic Mushroom,p,b,t,y,,n,,,t,f
+Cortinarius Family,Red-banded Cortinarius,p,x,i,n,,n,,e,f,f
+Cortinarius Family,Red-banded Cortinarius,p,x,i,n,,n,,n,f,f
+Cortinarius Family,Red-banded Cortinarius,p,x,e,n,,n,,e,f,f
+Cortinarius Family,Red-banded Cortinarius,p,x,e,n,,n,,n,f,f
+Cortinarius Family,Purple Cortinarius,p,x,,g,,g,,u,f,f
+Cortinarius Family,Purple Cortinarius,p,x,,g,,u,,u,f,f
+Cortinarius Family,Purple Cortinarius,p,x,,g,,n,,u,f,f
+Cortinarius Family,Purple Cortinarius,p,x,,u,,g,,u,f,f
+Cortinarius Family,Purple Cortinarius,p,x,,u,,u,,u,f,f
+Cortinarius Family,Purple Cortinarius,p,x,,u,,n,,u,f,f
+Cortinarius Family,Purple Cortinarius,p,x,,n,,g,,u,f,f
+Cortinarius Family,Purple Cortinarius,p,x,,n,,u,,u,f,f
+Cortinarius Family,Purple Cortinarius,p,x,,n,,n,,u,f,f
+Cortinarius Family,Blood-red Cortinarius,p,x,i,e,,e,,,f,f
+Cortinarius Family,Red-staining Inocybe,p,c,k,w,,w,,,f,f
+Cortinarius Family,Red-staining Inocybe,p,c,k,y,,w,,,f,f
+Cortinarius Family,Red-staining Inocybe,p,c,e,w,,w,,,f,f
+Cortinarius Family,Red-staining Inocybe,p,c,e,y,,w,,,f,f
+Cortinarius Family,Straw-coloured Inocybe,p,c,i,y,,w,,,f,f
+Cortinarius Family,Common White Inocybe,p,c,,w,i,w,,,f,f
+Cortinarius Family,Common White Inocybe,p,c,,w,i,u,,,f,f
+Cortinarius Family,Common White Inocybe,p,c,,u,i,w,,,f,f
+Cortinarius Family,Common White Inocybe,p,c,,u,i,u,,,f,f
+Cortinarius Family,Common White Inocybe,p,f,,w,i,w,,,f,f
+Cortinarius Family,Common White Inocybe,p,f,,w,i,u,,,f,f
+Cortinarius Family,Common White Inocybe,p,f,,u,i,w,,,f,f
+Cortinarius Family,Common White Inocybe,p,f,,u,i,u,,,f,f
+Cortinarius Family,Poison Pie,p,x,s,n,y,n,,,f,f
+Cortinarius Family,Poison Pie,p,x,t,n,y,n,,,f,f
+Cortinarius Family,Dark-centred Hebeloma,p,x,t,n,,w,,n,t,z
+Cortinarius Family,Rusty Wood Rotter,p,b,d,n,i,y,,,t,
+Cortinarius Family,Rusty Wood Rotter,p,b,d,n,i,n,,,t,
+Cortinarius Family,Rusty Wood Rotter,p,b,k,n,i,y,,,t,
+Cortinarius Family,Rusty Wood Rotter,p,b,k,n,i,n,,,t,
+Cortinarius Family,Rusty Wood Rotter,p,x,d,n,i,y,,,t,
+Cortinarius Family,Rusty Wood Rotter,p,x,d,n,i,n,,,t,
+Cortinarius Family,Rusty Wood Rotter,p,x,k,n,i,y,,,t,
+Cortinarius Family,Rusty Wood Rotter,p,x,k,n,i,n,,,t,
+Cortinarius Family,Rusty Wood Rotter,p,f,d,n,i,y,,,t,
+Cortinarius Family,Rusty Wood Rotter,p,f,d,n,i,n,,,t,
+Cortinarius Family,Rusty Wood Rotter,p,f,k,n,i,y,,,t,
+Cortinarius Family,Rusty Wood Rotter,p,f,k,n,i,n,,,t,
+Cortinarius Family,Spectacular Gymnopile,p,x,d,y,,o,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,d,y,,y,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,d,o,,o,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,d,o,,y,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,e,y,,o,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,e,y,,y,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,e,o,,o,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,e,o,,y,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,y,y,,o,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,y,y,,y,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,y,o,,o,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,y,o,,y,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,i,y,,o,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,i,y,,y,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,i,o,,o,,,t,r
+Cortinarius Family,Spectacular Gymnopile,p,x,i,o,,y,,,t,r
+Cortinarius Family,Moss Pixy Cap,p,b,h,n,t,n,,,f,f
+Mushroom Family,Field Mushroom,e,p,s,w,,w,,w,t,e
+Mushroom Family,Field Mushroom,e,p,y,w,,w,,w,t,e
+Mushroom Family,Field Mushroom,e,x,s,w,,w,,w,t,e
+Mushroom Family,Field Mushroom,e,x,y,w,,w,,w,t,e
+Mushroom Family,Field Mushroom,e,f,s,w,,w,,w,t,e
+Mushroom Family,Field Mushroom,e,f,y,w,,w,,w,t,e
+Mushroom Family,Cultivated Mushroom,e,f,i,n,,w,,,t,l
+Mushroom Family,Cultivated Mushroom,e,f,i,n,,w,,,t,r
+Mushroom Family,Cultivated Mushroom,e,f,y,n,,w,,,t,l
+Mushroom Family,Cultivated Mushroom,e,f,y,n,,w,,,t,r
+Mushroom Family,Cultivated Mushroom,e,x,i,n,,w,,,t,l
+Mushroom Family,Cultivated Mushroom,e,x,i,n,,w,,,t,r
+Mushroom Family,Cultivated Mushroom,e,x,y,n,,w,,,t,l
+Mushroom Family,Cultivated Mushroom,e,x,y,n,,w,,,t,r
+Mushroom Family,Horse Mushroom,e,p,s,w,,w,,,t,l
+Mushroom Family,Horse Mushroom,e,p,s,w,,w,,,t,r
+Mushroom Family,Horse Mushroom,e,p,s,n,,w,,,t,l
+Mushroom Family,Horse Mushroom,e,p,s,n,,w,,,t,r
+Mushroom Family,Horse Mushroom,e,x,s,w,,w,,,t,l
+Mushroom Family,Horse Mushroom,e,x,s,w,,w,,,t,r
+Mushroom Family,Horse Mushroom,e,x,s,n,,w,,,t,l
+Mushroom Family,Horse Mushroom,e,x,s,n,,w,,,t,r
+Mushroom Family,Horse Mushroom,e,f,s,w,,w,,,t,l
+Mushroom Family,Horse Mushroom,e,f,s,w,,w,,,t,r
+Mushroom Family,Horse Mushroom,e,f,s,n,,w,,,t,l
+Mushroom Family,Horse Mushroom,e,f,s,n,,w,,,t,r
+Mushroom Family,Yellow-staining Mushroom,p,x,y,w,,w,,,t,l
+Mushroom Family,Bleeding Brown Mushroom,e,p,i,n,y,w,,,t,l
+Mushroom Family,Bleeding Brown Mushroom,e,p,i,n,y,w,,,t,p
+Mushroom Family,Bleeding Brown Mushroom,e,p,y,n,y,w,,,t,l
+Mushroom Family,Bleeding Brown Mushroom,e,p,y,n,y,w,,,t,p
+Mushroom Family,Bleeding Brown Mushroom,e,x,i,n,y,w,,,t,l
+Mushroom Family,Bleeding Brown Mushroom,e,x,i,n,y,w,,,t,p
+Mushroom Family,Bleeding Brown Mushroom,e,x,y,n,y,w,,,t,l
+Mushroom Family,Bleeding Brown Mushroom,e,x,y,n,y,w,,,t,p
+Ink Cap Family,Shaggy Ink Cap,e,p,y,w,s,w,,,t,e
+Ink Cap Family,Shaggy Ink Cap,e,p,s,w,s,w,,,t,e
+Ink Cap Family,Shaggy Ink Cap,e,f,y,w,s,w,,,t,e
+Ink Cap Family,Shaggy Ink Cap,e,f,s,w,s,w,,,t,e
+Ink Cap Family,Common Ink Cap,p,p,s,g,s,w,,,t,z
+Ink Cap Family,Common Ink Cap,p,p,s,n,s,w,,,t,z
+Ink Cap Family,Common Ink Cap,p,p,y,g,s,w,,,t,z
+Ink Cap Family,Common Ink Cap,p,p,y,n,s,w,,,t,z
+Ink Cap Family,Common Ink Cap,p,b,s,g,s,w,,,t,z
+Ink Cap Family,Common Ink Cap,p,b,s,n,s,w,,,t,z
+Ink Cap Family,Common Ink Cap,p,b,y,g,s,w,,,t,z
+Ink Cap Family,Common Ink Cap,p,b,y,n,s,w,,,t,z
+Ink Cap Family,Magpie Ink Cap,p,p,y,w,,w,,,f,f
+Ink Cap Family,Magpie Ink Cap,p,p,y,n,,w,,,f,f
+Ink Cap Family,Magpie Ink Cap,p,b,y,w,,w,,,f,f
+Ink Cap Family,Magpie Ink Cap,p,b,y,n,,w,,,f,f
+Ink Cap Family,Rusty Carpet Ink Cap,p,b,y,n,s,w,,,f,f
+Ink Cap Family,Glistening Ink Cap,e,b,y,n,,w,,,f,f
+Ink Cap Family,Fairies' Bonnets,e,p,g,w,,w,,,f,f
+Ink Cap Family,Fairies' Bonnets,e,p,g,g,,w,,,f,f
+Ink Cap Family,Fairies' Bonnets,e,b,g,w,,w,,,f,f
+Ink Cap Family,Fairies' Bonnets,e,b,g,g,,w,,,f,f
+Ink Cap Family,Fairy Parasol,e,x,w,n,,w,,,f,f
+Ink Cap Family,Fairy Parasol,e,x,w,g,,w,,,f,f
+Ink Cap Family,Fairy Parasol,e,f,w,n,,w,,,f,f
+Ink Cap Family,Fairy Parasol,e,f,w,g,,w,,,f,f
+Ink Cap Family,Common Crumble Cap,e,x,,n,,w,,,f,f
+Ink Cap Family,Common Crumble Cap,e,x,,y,,w,,,f,f
+Ink Cap Family,Common Crumble Cap,e,x,,w,,w,,,f,f
+Ink Cap Family,Common Crumble Cap,e,f,,n,,w,,,f,f
+Ink Cap Family,Common Crumble Cap,e,f,,y,,w,,,f,f
+Ink Cap Family,Common Crumble Cap,e,f,,w,,w,,,f,f
+Ink Cap Family,Two-toned Crumble Cap,e,x,h,n,s,w,,w,f,f
+Ink Cap Family,Two-toned Crumble Cap,e,f,h,n,s,w,,w,f,f
+Ink Cap Family,Hay Cap,p,x,,n,s,n,,,f,f
+Ink Cap Family,Petticoat Fungus,p,b,,g,,g,,w,f,f
+Ink Cap Family,Petticoat Fungus,p,b,,g,,n,,w,f,f
+Ink Cap Family,Petticoat Fungus,p,b,,n,,g,,w,f,f
+Ink Cap Family,Petticoat Fungus,p,b,,n,,n,,w,f,f
+Ink Cap Family,Petticoat Fungus,p,b,,k,,g,,w,f,f
+Ink Cap Family,Petticoat Fungus,p,b,,k,,n,,w,f,f
+Ink Cap Family,Egg-shell Toadstool,p,b,t,n,,w,,,t,
+Ink Cap Family,Egg-shell Toadstool,p,b,h,n,,w,,,t,
+Ink Cap Family,Weeping Widow,p,x,i,n,i,n,,k,t,z
+Ink Cap Family,Weeping Widow,p,x,i,y,i,n,,k,t,z
+Bolete Family,Cep,e,x,w,n,,n,,,f,f
+Bolete Family,Cep,e,x,t,n,,n,,,f,f
+Bolete Family,Cep,e,p,w,n,,n,,,f,f
+Bolete Family,Cep,e,p,t,n,,n,,,f,f
+Bolete Family,Bay Bolete,e,x,h,n,,n,,,f,f
+Bolete Family,Bay Bolete,e,x,t,n,,n,,,f,f
+Bolete Family,Red-cracked Bolete,e,x,d,n,,e,,,f,f
+Bolete Family,Red-cracked Bolete,e,x,d,n,,y,,,f,f
+Bolete Family,Red-cracked Bolete,e,x,d,y,,e,,,f,f
+Bolete Family,Red-cracked Bolete,e,x,d,y,,y,,,f,f
+Bolete Family,Red-cracked Bolete,e,x,d,e,,e,,,f,f
+Bolete Family,Red-cracked Bolete,e,x,d,e,,y,,,f,f
+Bolete Family,Yellow-cracked Bolete,e,x,d,n,,y,,,f,f
+Bolete Family,Yellow-cracked Bolete,e,x,d,y,,y,,,f,f
+Bolete Family,Dotted-stemmed Bolete,p,x,e,n,,y,,,f,f
+Bolete Family,Dotted-stemmed Bolete,p,x,k,n,,y,,,f,f
+Bolete Family,Dotted-stemmed Bolete,p,x,s,n,,y,,,f,f
+Bolete Family,Dotted-stemmed Bolete,p,x,h,n,,y,,,f,f
+Bolete Family,Lurid Bolete,p,x,e,n,,u,,,f,f
+Bolete Family,Lurid Bolete,p,x,e,n,,e,,,f,f
+Bolete Family,Lurid Bolete,p,x,e,y,,u,,,f,f
+Bolete Family,Lurid Bolete,p,x,e,y,,e,,,f,f
+Bolete Family,Parasitic Bolete,e,x,d,n,,n,,,f,f
+Bolete Family,Parasitic Bolete,e,x,d,n,,y,,,f,f
+Bolete Family,Parasitic Bolete,e,x,k,n,,n,,,f,f
+Bolete Family,Parasitic Bolete,e,x,k,n,,y,,,f,f
+Bolete Family,Bitter Bolete,p,x,,n,,n,,,f,f
+Bolete Family,Bitter Bolete,p,p,,n,,n,,,f,f
+Bolete Family,Peppery Bolete,e,x,s,n,,e,,,f,f
+Bolete Family,Peppery Bolete,e,x,s,n,,n,,,f,f
+Bolete Family,Peppery Bolete,e,x,s,o,,e,,,f,f
+Bolete Family,Peppery Bolete,e,x,s,o,,n,,,f,f
+Bolete Family,Peppery Bolete,e,x,t,n,,e,,,f,f
+Bolete Family,Peppery Bolete,e,x,t,n,,n,,,f,f
+Bolete Family,Peppery Bolete,e,x,t,o,,e,,,f,f
+Bolete Family,Peppery Bolete,e,x,t,o,,n,,,f,f
+Bolete Family,Orange Birch Bolete,e,p,d,n,y,w,,,f,f
+Bolete Family,Orange Birch Bolete,e,p,d,o,y,w,,,f,f
+Bolete Family,Orange Birch Bolete,e,p,d,e,y,w,,,f,f
+Bolete Family,Orange Birch Bolete,e,x,d,n,y,w,,,f,f
+Bolete Family,Orange Birch Bolete,e,x,d,o,y,w,,,f,f
+Bolete Family,Orange Birch Bolete,e,x,d,e,y,w,,,f,f
+Bolete Family,Brown Birch Bolete,e,x,,g,y,w,,,f,f
+Bolete Family,Brown Birch Bolete,e,x,,n,y,w,,,f,f
+Bolete Family,Larch Bolete,e,x,t,y,,y,,y,t,
+Bolete Family,Larch Bolete,e,x,h,y,,y,,y,t,
+Bolete Family,Slippery Jack,e,x,t,n,,n,,w,t,p
+Bolete Family,Slippery Jack,e,x,h,n,,n,,w,t,p
+Bolete Family,Slippery Jack,e,x,s,n,,n,,w,t,p
+Bolete Family,Shallow-pored Bolete,e,x,h,n,s,n,,,f,f
+Bolete Family,Shallow-pored Bolete,e,x,t,n,s,n,,,f,f
+Paxillus Family,Brown Roll-rim,p,x,t,r,,n,,,f,f
+Paxillus Family,Brown Roll-rim,p,x,t,n,,n,,,f,f
+Paxillus Family,Brown Roll-rim,p,f,t,r,,n,,,f,f
+Paxillus Family,Brown Roll-rim,p,f,t,n,,n,,,f,f
+Paxillus Family,Brown Roll-rim,p,s,t,r,,n,,,f,f
+Paxillus Family,Brown Roll-rim,p,s,t,n,,n,,,f,f
+Paxillus Family,Velvet Roll-rim,p,f,d,n,k,k,,,f,f
+Paxillus Family,Velvet Roll-rim,p,f,d,n,k,n,,,f,f
+Paxillus Family,Velvet Roll-rim,p,f,k,n,k,k,,,f,f
+Paxillus Family,Velvet Roll-rim,p,f,k,n,k,n,,,f,f
+Paxillus Family,Velvet Roll-rim,p,f,s,n,k,k,,,f,f
+Paxillus Family,Velvet Roll-rim,p,f,s,n,k,n,,,f,f
+Paxillus Family,Velvet Roll-rim,p,s,d,n,k,k,,,f,f
+Paxillus Family,Velvet Roll-rim,p,s,d,n,k,n,,,f,f
+Paxillus Family,Velvet Roll-rim,p,s,k,n,k,k,,,f,f
+Paxillus Family,Velvet Roll-rim,p,s,k,n,k,n,,,f,f
+Paxillus Family,Velvet Roll-rim,p,s,s,n,k,k,,,f,f
+Paxillus Family,Velvet Roll-rim,p,s,s,n,k,n,,,f,f
+Paxillus Family,False Chanterelle,p,s,d,o,,o,,,f,f
+Paxillus Family,False Chanterelle,p,s,d,o,,y,,,f,f
+Paxillus Family,False Chanterelle,p,s,d,y,,o,,,f,f
+Paxillus Family,False Chanterelle,p,s,d,y,,y,,,f,f
+Chanterelle Family,Chanterelle,e,x,w,y,,y,,,f,f
+Chanterelle Family,Chanterelle,e,f,w,y,,y,,,f,f
+Chanterelle Family,Chanterelle,e,s,w,y,,y,,,f,f
+Chanterelle Family,Tubed Chanterelle,e,s,,n,,o,,,f,f
+Chanterelle Family,Tubed Chanterelle,e,s,,n,,y,,,f,f
+Chanterelle Family,Tubed Chanterelle,e,s,,y,,o,,,f,f
+Chanterelle Family,Tubed Chanterelle,e,s,,y,,y,,,f,f
+Chanterelle Family,Horn of Plenty,e,s,l,n,,n,,,f,f
+Chanterelle Family,Horn of Plenty,e,o,l,n,,n,,,f,f
+Oyster Mushroom Family,Oyster Mushroom,e,f,,l,,w,,,f,f
+Oyster Mushroom Family,Oyster Mushroom,e,f,,g,,w,,,f,f
+Oyster Mushroom Family,Oyster Mushroom,e,f,,b,,w,,,f,f
+Oyster Mushroom Family,Oyster Mushroom,e,f,,w,,w,,,f,f
+Oyster Mushroom Family,Branched Oyster Mushroom,e,s,,n,,n,,,f,f
+Oyster Mushroom Family,Branched Oyster Mushroom,e,o,,n,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,e,y,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,e,y,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,e,o,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,e,o,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,e,r,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,e,r,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,e,n,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,e,n,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,t,y,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,t,y,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,t,o,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,t,o,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,t,r,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,t,r,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,t,n,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,t,n,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,k,y,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,k,y,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,k,o,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,k,o,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,k,r,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,k,r,,n,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,k,n,,y,,,f,f
+Tricholoma Family,Olive-brown Panellus,p,o,k,n,,n,,,f,f
+Crepidotus Family,Soft Slipper Toadstool,p,o,s,n,f,f,,,f,f
+Crepidotus Family,Soft Slipper Toadstool,p,o,s,w,f,f,,,f,f
+Crepidotus Family,Soft Slipper Toadstool,p,o,t,n,f,f,,,f,f
+Crepidotus Family,Soft Slipper Toadstool,p,o,t,w,f,f,,,f,f
+Hydnum Family,Hedgehog Fungus,e,f,e,b,,w,,,t,f
+Ear-Pick Family,Ear-pick Fungus,p,x,k,n,,n,,,f,f
+Ear-Pick Family,Ear-pick Fungus,p,o,k,n,,n,,,f,f
+Bracket Fungi,Hairy Stereum,p,o,s,y,f,f,,,t,f
+Bracket Fungi,Hairy Stereum,p,o,s,o,f,f,,,t,f
+Bracket Fungi,Hairy Stereum,p,o,s,g,f,f,,,t,f
+Bracket Fungi,Hairy Stereum,p,o,s,n,f,f,,,t,f
+Bracket Fungi,Hairy Stereum,p,o,s,r,f,f,,,t,f
+Bracket Fungi,Silver Leaf Fungus,p,o,l,g,f,f,,,f,f
+Bracket Fungi,Dryad's Saddle,e,o,y,y,k,k,,,f,f
+Bracket Fungi,Dryad's Saddle,e,o,y,y,k,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,g,o,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,g,e,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,g,n,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,g,k,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,s,o,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,s,e,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,s,n,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,s,k,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,d,o,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,d,e,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,d,n,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,f,d,k,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,g,o,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,g,e,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,g,n,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,g,k,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,s,o,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,s,e,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,s,n,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,s,k,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,d,o,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,d,e,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,d,n,,n,,,f,f
+Bracket Fungi,Fuzzy Polypore,p,x,d,k,,n,,,f,f
+Bracket Fungi,Brown Goblet,p,f,k,n,k,n,,,t,f
+Bracket Fungi,Brown Goblet,p,f,k,y,k,n,,,t,f
+Bracket Fungi,Brown Goblet,p,s,k,n,k,n,,,t,f
+Bracket Fungi,Brown Goblet,p,s,k,y,k,n,,,t,f
+Saddle-Cup Family,White Saddle,p,o,,w,g,w,,,t,f
+Bracket Fungi,Elfin's Saddle,p,o,,g,g,g,,,f,f
+Bracket Fungi,Elfin's Saddle,p,o,,g,g,n,,,f,f
+Bracket Fungi,Elfin's Saddle,p,o,,k,g,g,,,f,f
+Bracket Fungi,Elfin's Saddle,p,o,,k,g,n,,,f,f
+Bracket Fungi,Turban Fungus,p,o,,n,g,n,,,f,f
+Bracket Fungi,Turban Fungus,p,o,,e,g,n,,,f,f
+Morel Family,Common Morel,e,p,,n,,n,,,f,f
+Morel Family,Common Morel,e,p,,g,,n,,,f,f
+Morel Family,Common Morel,e,c,,n,,n,,,f,f
+Morel Family,Common Morel,e,c,,g,,n,,,f,f
+Morel Family,Common Morel,e,o,,n,,n,,,f,f
+Morel Family,Common Morel,e,o,,g,,n,,,f,f
+Jelly Discs Family,Jelly Babies,p,x,s,y,,y,,,f,f
+Jelly Discs Family,Jelly Babies,p,f,s,y,,y,,,f,f
+Jelly Discs Family,Jelly Babies,p,s,s,y,,y,,,f,f

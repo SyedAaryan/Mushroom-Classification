@@ -1,11 +1,12 @@
-import joblib
+import pickle
 
-# Load the saved label encoders
-label_encoders = joblib.load('../pkl_files/label_encoders.pkl')
+# Path to your .pkl file
+pkl_file_path = '../pkl_files/primary_label_encoders.pkl'
 
-# Decode the predictions
-decoded_family = label_encoders['family'].inverse_transform([0])[0]
-decoded_name = label_encoders['name'].inverse_transform([55])[0]
+# Open the .pkl file in binary read mode
+with open(pkl_file_path, 'rb') as file:
+    # Load the data from the file
+    data = pickle.load(file)
 
-print(f'Decoded Family: {decoded_family}')
-print(f'Decoded Name: {decoded_name}')
+# Print or inspect the loaded data
+print(data)
