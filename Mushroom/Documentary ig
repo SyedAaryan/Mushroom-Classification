@@ -48,3 +48,7 @@ Before i move to stage 2, i will be working on the following:
 1. Refine the project
 2. Try to increase the accuracy
 3. Add proper comments to the code
+
+31/08/2024 :15:00
+I tired Random Forest Classification, but it didnt gave me only 94% accuracy
+So ill stick to Decision Tree Classifier and check for other modes
