@@ -52,3 +52,9 @@ Before i move to stage 2, i will be working on the following:
 31/08/2024 :15:00
 I tired Random Forest Classification, but it didnt gave me only 94% accuracy
 So ill stick to Decision Tree Classifier and check for other modes
+
+31/08/2024 : 16:00
+I tired GBM and it gave me 81% accuracy, which is very bad compared to what i ws getting before
+But idk if my tuning is not right or something else
+As of now i will take a break in thi project (i just came back lol) and focus on a hackathon coming this week
+Once that is done, i will come back to this project and try to increase the accuracy

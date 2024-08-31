@@ -1,4 +1,3 @@
-Add Proper Comments to the code
-
-Check for other models, or hybrid models as well
-
+Try with other models
+Random Forest gave : 94%
+GBM gave : 81%
