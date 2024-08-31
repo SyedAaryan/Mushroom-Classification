@@ -4,7 +4,7 @@ from sklearn.tree import DecisionTreeClassifier
 import joblib
 
 # Load the primary dataset
-df_primary = pd.read_csv('../dataset/mushroom_primary.csv')
+df_primary = pd.read_csv('../csv_files/dataset/train_mushroom.csv')
 
 # Encode categorical features in the primary dataset
 label_encoders = {}

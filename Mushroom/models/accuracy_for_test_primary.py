@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.metrics import accuracy_score
 
 # Load the dataset with predictions
-df_with_predictions = pd.read_csv('../results/mushroom_secondary_with_predictions.csv')
+df_with_predictions = pd.read_csv('../csv_files/results/predicted_dataset.csv')
 
 # Ensure the 'class' and 'predicted_class' columns are present
 if 'class' not in df_with_predictions.columns or 'predicted_class' not in df_with_predictions.columns:

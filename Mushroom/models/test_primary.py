@@ -2,7 +2,7 @@ import pandas as pd
 import joblib
 
 # Load the secondary dataset
-df_secondary = pd.read_csv('../original_dataset/Modified/Secondary_Data_Modified.csv')
+df_secondary = pd.read_csv('../csv_files/dataset/test_mushroom.csv')
 
 # Load the trained models and label encoders
 clf_family = joblib.load('../pkl_files/family_clf_model.pkl')
@@ -40,6 +40,6 @@ df_secondary['predicted_class'] = label_encoders['class'].inverse_transform(pred
 
 
 # Save the predictions to a CSV file
-df_secondary.to_csv('../results/mushroom_secondary_with_predictions.csv', index=False)
+df_secondary.to_csv('../csv_files/results/predicted_dataset.csv', index=False)
 
 print("Predictions complete and saved.")
