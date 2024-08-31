@@ -1,7 +1,6 @@
-dataset has been updated
-Work on training
-Make primary and secoindary dataset proper
-FIx the encoding
+Delete bloat files, and make the file structure more clean
 
-mushroom_train is the Primary Dataset
-mushroom_test_major.csv and mushroom_test_minor.csv are Secondary Dataset
+Add Proper Comments to the code
+
+Check for other models, or hybrid models as well
+

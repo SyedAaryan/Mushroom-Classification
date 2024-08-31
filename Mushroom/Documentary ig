@@ -21,7 +21,7 @@ Yep, using the secondary dataset was easy, the test gives the accuracy of 97.6%
 Although i still need to learn alot before going to the primary dataset
 
 23/08/2024 : 21:20
-Thanks to Aadhi (an idiotic frnd of mine), i have found a way to deal with PrimaryDataset
+Thanks to Aadhi (an idiotic friend of mine), i have found a way to deal with PrimaryDataset
 Now
 Amanita Family,Fly Agaric,p,[x; f],[g; h],[e; o],[y],[w],[u],[w],[t],[g; p]
 This is an example of the dataset, as you can see, some parameters has 2 values inside one, [g; h], like
@@ -30,11 +30,21 @@ So ill be implementing it
 
 24/08/2024 : 12:00
 Primary data splitting has is done but its having an issue, since my primary data is less, it was having unSeen values
-so i thought i will train using the Primary and Test Using Secondary, and it works, yes, but i cant check teh accuracy
+so i thought i will train using the Primary and Test Using Secondary, and it works, yes, but i cant check the accuracy
 since family name and class are not present in the secondary
 I have to write a decoder for the encoder it seems
 
 24/08/2024 : 17:00
 So i think the current encoder is having some issues, need to fix it
 And since i am having multiple target values, i decided to move from DecisionTree to randomForest
-But before that i will be working on the encoder
+But before that i will be working on the
+
+31/08/2024 : 13:00
+After taking a long break after so many things happening in my life, i am back to the project
+Encoder and decoder is fine, so i was wrong about it ig, i checked the accuracy scores and it gives me 96% accuracy
+I thought ill move to stage 2, where the model can take input from the user and predict the output
+But  think i should refine the project more before moving to that stage, and to do list is also a mess
+Before i move to stage 2, i will be working on the following:
+1. Refine the project
+2. Try to increase the accuracy
+3. Add proper comments to the code
