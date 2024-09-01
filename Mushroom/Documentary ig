@@ -58,3 +58,12 @@ I tired GBM and it gave me 81% accuracy, which is very bad compared to what i ws
 But idk if my tuning is not right or something else
 As of now i will take a break in thi project (i just came back lol) and focus on a hackathon coming this week
 Once that is done, i will come back to this project and try to increase the accuracy
+
+01/09/2024 : 17:00
+A devastating blow
+I thought ill work on the project little, i moved to taking inputs from the user and the model predicted, but obiviously
+it was wrong, the model NEEDS ALOT OF WORK, AND I MEAN ALOT
+But thats not the issue, the issue that i believe the dataset itself is wrong
+AN example of this is that According to the dataset i choose, Honey Fungus comes from tricholoma family, but in reality
+it belongs to Armilliria family, which is not even present in the datasetand its a complete different family
+So yea, i have to start from scratch and find a new dataset, amazing
