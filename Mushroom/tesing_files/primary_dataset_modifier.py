@@ -23,7 +23,7 @@ def expand_bracketed_values(row):
 
 
 # Read the input CSV file
-input_file = '../original_dataset/Modified/Primary_data_Modified.csv'  # Change to your input file
+input_file = '../csv_files/original_dataset/Primary_data_Modified.csv'  # Change to your input file
 df = pd.read_csv(input_file)
 
 # DataFrame to hold the expanded rows
@@ -37,7 +37,7 @@ for index, row in df.iterrows():
 expanded_df = pd.DataFrame(expanded_rows, columns=df.columns)
 
 # Save the expanded DataFrame to a new CSV file
-output_file = '../dataset/mushroom_primary.csv'  # Change to your desired output file name
+output_file = '../csv_files/dataset/train_mushroom.csv'  # Change to your desired output file name
 expanded_df.to_csv(output_file, index=False)
 
 print(f"Data expansion complete. Expanded data saved to {output_file}")

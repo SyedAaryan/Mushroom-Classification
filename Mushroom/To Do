@@ -1,7 +1,3 @@
-dataset has been updated
-Work on training
-Make primary and secoindary dataset proper
-FIx the encoding
-
-mushroom_train is the Primary Dataset
-mushroom_test_major.csv and mushroom_test_minor.csv are Secondary Dataset
+Try with other models
+Random Forest gave : 94%
+GBM gave : 81%

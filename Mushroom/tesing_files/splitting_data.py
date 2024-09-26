@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 # Load your dataset
-df = pd.read_csv('../dataset/mushroom_primary.csv')
+df = pd.read_csv('../csv_files/dataset/train_mushroom.csv')
 
 # Perform stratified split
 X_train, X_test, y_train, y_test = train_test_split(
