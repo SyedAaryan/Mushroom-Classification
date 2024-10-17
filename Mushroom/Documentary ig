@@ -67,3 +67,100 @@ But thats not the issue, the issue that i believe the dataset itself is wrong
 AN example of this is that According to the dataset i choose, Honey Fungus comes from tricholoma family, but in reality
 it belongs to Armilliria family, which is not even present in the datasetand its a complete different family
 So yea, i have to start from scratch and find a new dataset, amazing
+
+17/10/2024 : 19:00
+Did K-Fold Cross Validation on the dataset, the accuracy is 59.77%, which is not good
+Fold 1: Validation Score = 0.6082949308755761
+Fold 2: Validation Score = 0.6359447004608295
+Fold 3: Validation Score = 0.5925925925925926
+Fold 4: Validation Score = 0.5462962962962963
+Fold 5: Validation Score = 0.6064814814814815
+
+Average Score: 0.5977214003417552 (Not good)
+
+17/10/2024 : 19:30
+Fold 1:
+  Validation Score = 0.6083
+  class:
+    F1 Score = 0.8294
+    Precision = 0.8294
+    Recall = 0.8295
+  family:
+    F1 Score = 0.7579
+    Precision = 0.7643
+    Recall = 0.7880
+  name:
+    F1 Score = 0.6492
+    Precision = 0.6559
+    Recall = 0.6728
+Fold 2:
+  Validation Score = 0.6359
+  class:
+    F1 Score = 0.8569
+    Precision = 0.8571
+    Recall = 0.8571
+  family:
+    F1 Score = 0.7827
+    Precision = 0.7915
+    Recall = 0.7880
+  name:
+    F1 Score = 0.6477
+    Precision = 0.6523
+    Recall = 0.6636
+Fold 3:
+  Validation Score = 0.5926
+  class:
+    F1 Score = 0.8419
+    Precision = 0.8418
+    Recall = 0.8426
+  family:
+    F1 Score = 0.7639
+    Precision = 0.7698
+    Recall = 0.7731
+  name:
+    F1 Score = 0.6008
+    Precision = 0.5976
+    Recall = 0.6296
+Fold 4:
+  Validation Score = 0.5463
+  class:
+    F1 Score = 0.8385
+    Precision = 0.8399
+    Recall = 0.8380
+  family:
+    F1 Score = 0.7067
+    Precision = 0.7211
+    Recall = 0.7130
+  name:
+    F1 Score = 0.5711
+    Precision = 0.5873
+    Recall = 0.5926
+Fold 5:
+  Validation Score = 0.6065
+  class:
+    F1 Score = 0.8699
+    Precision = 0.8700
+    Recall = 0.8704
+  family:
+    F1 Score = 0.7893
+    Precision = 0.8036
+    Recall = 0.7963
+  name:
+    F1 Score = 0.6503
+    Precision = 0.6573
+    Recall = 0.6667
+
+Overview
+Class:
+    The F1 scores are quite high, ranging from approximately 0.8294 to 0.8699. This suggests the model performs well in
+distinguishing between different classes.
+
+Family:
+    The F1 scores are slightly lower (around 0.7067 to 0.7827), which indicates moderate performance, and there may be
+some classes within this target that are harder to classify.
+
+Name:
+    The F1 scores for this target are lower still, ranging from about 0.5711 to 0.6503, suggesting the model has more
+difficulty accurately predicting this output.
+
+Model Must be Hyper Tuned Before Working
