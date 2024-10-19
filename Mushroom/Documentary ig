@@ -164,3 +164,44 @@ Name:
 difficulty accurately predicting this output.
 
 Model Must be Hyper Tuned Before Working
+
+
+19/10/2024 : 13:30
+So i came with other plan on how do deal with the project
+Here is the plan:
+1. The application will ask for the following 9 inputs
+cap-shape,Cap-surface,cap-color,stem-surface,stem-color,veil-type,veil-color,has-ring,ring-type
+and the user will input the values
+2. With this the model will check if for the given input, the mushroom is edible or poisonous
+3. Then the application will ask if the user wants to know the name and family of the mushroom
+4. If the user says yes, the model will predict the name and family of the mushroom
+5. The application will then display the results to the user
+
+19/10/2024 : 14:00
+Fold 1:
+  F1 Score = 0.9908
+  Precision = 0.9908
+  Recall = 0.9908
+Fold 2:
+  F1 Score = 0.9723
+  Precision = 0.9737
+  Recall = 0.9724
+Fold 3:
+  F1 Score = 0.9626
+  Precision = 0.9651
+  Recall = 0.9630
+Fold 4:
+  F1 Score = 0.9631
+  Precision = 0.9638
+  Recall = 0.9630
+Fold 5:
+  F1 Score = 0.9721
+  Precision = 0.9727
+  Recall = 0.9722
+
+Overall Validation Scores:
+  Mean F1 Score = 0.9722
+  Mean Precision = 0.9732
+  Mean Recall = 0.9723
+
+For the target values only as Class, i am getting an avg of 97% accuracy, which is Amazing
