@@ -25,7 +25,7 @@ else:
 clf_family = joblib.load('../pkl_files/family_clf_model.pkl')
 clf_name = joblib.load('../pkl_files/name_clf_model.pkl')
 clf_class = joblib.load('../pkl_files/class_clf_model.pkl')
-label_encoders = joblib.load('../pkl_files/primary_label_encoders.pkl')
+label_encoders = joblib.load('../pkl_files/encoders.pkl')
 
 # Encode categorical features using the same encoders from the primary dataset
 for column in df_input.columns:

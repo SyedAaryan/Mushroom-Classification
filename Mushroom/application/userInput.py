@@ -1,10 +1,13 @@
+import pandas as pd
+import joblib
+
 def get_user_input():
     # Define valid options for each parameter with descriptions
     options = {
         "cap-shape": {"b": "bell", "c": "conical", "x": "convex", "f": "flat", "s": "sunken", "p": "spherical", "o": "others"},
         "cap-surface": {"i": "fibrous", "g": "grooves", "y": "scaly", "s": "smooth", "w": "wrinkled", "e": "fleshy"},
         "cap-color": {"n": "brown", "b": "buff", "g": "gray", "r": "green", "p": "pink", "u": "purple", "e": "red", "w": "white", "y": "yellow", "l": "blue", "o": "orange", "k": "black"},
-        "stem-surface": {"i": "fibrous", "g": "grooves", "y": "scaly", "s": "smooth", "w": "wrinkled", "e": "fleshy", "f": "none"},
+            "stem-surface": {"i": "fibrous", "g": "grooves", "y": "scaly", "s": "smooth", "w": "wrinkled", "e": "fleshy", "f": "none"},
         "stem-color": {"n": "brown", "b": "buff", "g": "gray", "r": "green", "p": "pink", "u": "purple", "e": "red", "w": "white", "y": "yellow", "l": "blue", "o": "orange", "k": "black", "f": "none"},
         "veil-type": {"u": "universal"},
         "veil-color": {"n": "brown", "b": "buff", "g": "gray", "r": "green", "p": "pink", "u": "purple", "e": "red", "w": "white", "y": "yellow", "l": "blue", "o": "orange", "k": "black", "f": "none"},
@@ -29,3 +32,4 @@ def get_user_input():
                 print("Invalid input. Please enter a valid value from the list above.")
 
     return user_input
+

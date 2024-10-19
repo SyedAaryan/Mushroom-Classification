@@ -1,45 +1,23 @@
 import pandas as pd
 import joblib
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
-# Load the secondary dataset
-df_secondary = pd.read_csv('../csv_files/dataset/test_mushroom.csv')
+# Load the encoded label encoders
+label_encoders = joblib.load('../pkl_files/encoders.pkl')
 
-# Load the trained models and label encoders
-clf_family = joblib.load('../pkl_files/family_clf_model.pkl')
-clf_name = joblib.load('../pkl_files/name_clf_model.pkl')
-clf_class = joblib.load('../pkl_files/class_clf_model.pkl')
-label_encoders = joblib.load('../pkl_files/primary_label_encoders.pkl')
-
-# Encode categorical features using the same encoders from the primary dataset
-for column in df_secondary.columns:
-    if df_secondary[column].dtype == object:
-        le = label_encoders.get(column)
-        if le:
-            df_secondary[column] = le.transform(df_secondary[column])
-
-
+# Load the encoded test dataset
+test_data = pd.read_csv('../csv_files/dataset/test_mushroom_encoded.csv')
 
 # Separate features (X) and target variable (y)
-X_test = df_secondary.drop(columns=['class'])  # Features for predicting family, name, and class
+X_test = test_data.drop(columns=['class'])  # Features
+y_test = test_data['class']  # Target
 
-# Predict the family, name, and class
-predicted_family = clf_family.predict(X_test)
-predicted_name = clf_name.predict(X_test)
-predicted_class = clf_class.predict(X_test)
+# Load the trained model
+rf_class = joblib.load('../pkl_files/rf_class_model.pkl')
 
-# Decode other columns back to their original labels
-for column in df_secondary.columns:
-    if column in label_encoders:
-        le = label_encoders[column]
-        df_secondary[column] = le.inverse_transform(df_secondary[column])
+# Predict using the test dataset
+y_pred = rf_class.predict(X_test)
 
-# Decode the predictions back to their original labels
-df_secondary['family'] = label_encoders['family'].inverse_transform(predicted_family)
-df_secondary['name'] = label_encoders['name'].inverse_transform(predicted_name)
-df_secondary['predicted_class'] = label_encoders['class'].inverse_transform(predicted_class)
-
-
-# Save the predictions to a CSV file
-df_secondary.to_csv('../csv_files/results/predicted_dataset.csv', index=False)
-
-print("Predictions complete and saved.")
+# Calculate the accuracy score
+accuracy = accuracy_score(y_test, y_pred)
+print(f"Overall Accuracy: {accuracy:.4f}")

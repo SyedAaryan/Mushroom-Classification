@@ -16,4 +16,4 @@ train_data.to_csv('../csv_files/dataset/train_mushroom_encoded.csv', index=False
 
 # Optionally save encoders for future use
 import joblib
-joblib.dump(encoders, 'encoders.pkl')  # Save encoders for later
+joblib.dump(encoders, '../pkl_files/encoders.pkl')  # Save encoders for later

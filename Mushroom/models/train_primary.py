@@ -1,38 +1,20 @@
 import pandas as pd
-from sklearn.preprocessing import LabelEncoder
-from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
 import joblib
 
-# Load the primary dataset
-df_primary = pd.read_csv('../csv_files/dataset/train_mushroom.csv')
+# Load the encoded dataset
+df_encoded = pd.read_csv('../csv_files/dataset/train_mushroom_encoded.csv')
 
-# Encode categorical features in the primary dataset
-label_encoders = {}
-for column in df_primary.columns:
-    if df_primary[column].dtype == object:
-        le = LabelEncoder()
-        df_primary[column] = le.fit_transform(df_primary[column])
-        label_encoders[column] = le
+# Separate features (X) and target variable (y)
+X_train = df_encoded.drop(columns=['class','family','name'])  # Features
+y_train_class = df_encoded['class']  # Target: Class
 
-# Separate features (X) and target variables (y)
-X_train = df_primary.drop(columns=['family', 'name', 'class'])  # Features
-y_train_family = df_primary['family']  # Target: Family
-y_train_name = df_primary['name']  # Target: Name
-y_train_class = df_primary['class']  # Target: Class
+# Train a Random Forest model for the 'class' target
+rf_class = RandomForestClassifier(random_state=42)
 
-# Train a Decision Tree model for each target
-clf_family = DecisionTreeClassifier(random_state=42)
-clf_name = DecisionTreeClassifier(random_state=42)
-clf_class = DecisionTreeClassifier(random_state=42)
+rf_class.fit(X_train, y_train_class)
 
-clf_family.fit(X_train, y_train_family)
-clf_name.fit(X_train, y_train_name)
-clf_class.fit(X_train, y_train_class)
+# Save the trained model
+joblib.dump(rf_class, '../pkl_files/rf_class_model.pkl')
 
-# Save the trained models and label encoders
-joblib.dump(clf_family, '../pkl_files/family_clf_model.pkl')
-joblib.dump(clf_name, '../pkl_files/name_clf_model.pkl')
-joblib.dump(clf_class, '../pkl_files/class_clf_model.pkl')
-joblib.dump(label_encoders, '../pkl_files/primary_label_encoders.pkl')
-
-print("Training complete and models saved.")
+print("Training complete and model saved.")
