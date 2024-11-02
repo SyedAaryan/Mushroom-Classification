@@ -2,14 +2,18 @@ import pandas as pd
 import joblib
 from Mushroom.application.userInput import get_user_input
 
-print("Welcome Stranded Guy who is hungry and is surrounded by mushrooms but doesn't know which one is edible and which one is poisonous.")
+print(
+    "Welcome Stranded Guy who is hungry and is surrounded by mushrooms but doesn't know which one is edible and which "
+    "one is poisonous.")
 print("I am here to help you identify the mushroom.")
 print("Please answer the following questions to identify the mushroom.")
 
 # Define the column names to match your model's expected input for class prediction
-columns = ['cap-shape', 'Cap-surface', 'cap-color', 'stem-surface', 'stem-color', 'veil-type', 'veil-color', 'has-ring', 'ring-type']
+columns = ['cap-shape', 'Cap-surface', 'cap-color', 'stem-surface', 'stem-color', 'veil-type', 'veil-color', 'has-ring',
+           'ring-type']
 
 # Get user input
+
 user_input_list = [get_user_input()]
 
 # Convert the list to a DataFrame
@@ -36,5 +40,3 @@ df_input['predicted_class'] = label_encoders['class'].inverse_transform(predicte
 print(f"The predicted class for the input mushroom is: {df_input['predicted_class'].iloc[0]} (Edible or Poisonous)")
 
 # Optionally, print the full input and output for clarity
-print("\nInput features:")
-print(df_input.drop(columns=['predicted_class']))  # Show the input features without the prediction

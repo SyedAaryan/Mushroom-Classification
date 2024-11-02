@@ -9,7 +9,8 @@ user_input_list = [
 ]
 
 # Define the column names to match your model's expected input
-columns = ['cap-shape', 'Cap-surface', 'cap-color', 'stem-surface', 'stem-color', 'veil-type', 'veil-color', 'has-ring', 'ring-type']
+columns = ['cap-shape', 'Cap-surface', 'cap-color', 'stem-surface', 'stem-color', 'veil-type', 'veil-color', 'has-ring',
+           'ring-type']
 
 # Check the shape of user_input_list and the columns
 print(f"Shape of user_input_list: {len(user_input_list)} x {len(user_input_list[0]) if user_input_list else 0}")
