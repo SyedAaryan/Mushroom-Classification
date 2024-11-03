@@ -80,7 +80,6 @@ for feature in columns:
 
     var = tk.StringVar(window)
     choices = [f"{desc} ({code})" for code, desc in options[feature].items()]
-    var.set(choices[0])  # Default selection
 
     # Add dropdown with descriptions
     dropdown = tk.OptionMenu(frame, var, *choices)
